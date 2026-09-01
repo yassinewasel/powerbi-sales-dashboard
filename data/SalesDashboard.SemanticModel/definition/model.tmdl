@@ -1,0 +1,21 @@
+model Model
+	culture: fr-FR
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: fr-FR
+	valueFilterBehavior: independent
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_QueryOrder = ["sales"]
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table DateTableTemplate_e0455ed4-2f6a-47ca-a087-641cfce3f2b0
+ref table sales
+ref table LocalDateTable_a03e216d-b78d-443b-9d29-8017d3807d36
+
+ref cultureInfo fr-FR
+

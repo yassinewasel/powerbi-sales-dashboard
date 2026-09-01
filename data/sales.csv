@@ -1,0 +1,1001 @@
+OrderID,Date,Product,Category,City,Region,UnitPrice,Quantity,Salesperson,CustomerType
+ORD-00001,2026-03-15,Disque SSD externe 1 To,Stockage,Rouen,Normandie,127.30,1,Léa Dubois,Association
+ORD-00002,2026-05-11,Routeur Wi-Fi 6,Réseau,Le Havre,Normandie,181.44,7,Hugo Robert,Grande entreprise
+ORD-00003,2026-07-13,Imprimante multifonction,Impression,Grenoble,Auvergne-Rhône-Alpes,247.40,1,Camille Martin,Indépendant
+ORD-00004,2026-01-27,Écran 27 pouces QHD,Informatique,Limoges,Nouvelle-Aquitaine,343.10,5,Thomas Bernard,Indépendant
+ORD-00005,2026-07-28,Microphone USB,Visioconférence,Nice,Provence-Alpes-Côte d'Azur,139.00,1,Inès Moreau,PME
+ORD-00006,2025-10-25,Tablette 10 pouces,Mobilité,Metz,Grand Est,387.03,2,Léa Dubois,Indépendant
+ORD-00007,2026-02-18,Webcam HD,Visioconférence,Rennes,Bretagne,89.00,1,Thomas Bernard,PME
+ORD-00008,2025-09-07,Microphone USB,Visioconférence,Bourges,Centre-Val de Loire,140.39,4,Sarah Laurent,Administration
+ORD-00009,2026-08-23,Casque Bluetooth,Audio,Le Havre,Normandie,172.70,1,Chloé Richard,Association
+ORD-00010,2025-10-15,Casque Bluetooth,Audio,Montpellier,Occitanie,172.70,4,Nathan Leroy,PME
+ORD-00011,2026-02-11,Routeur Wi-Fi 6,Réseau,Amiens,Hauts-de-France,189.00,18,Lucas Petit,Grande entreprise
+ORD-00012,2026-05-06,Bureau réglable,Mobilier,Strasbourg,Grand Est,604.99,9,Lucas Petit,PME
+ORD-00013,2025-12-17,Clé USB 128 Go,Stockage,Toulouse,Occitanie,30.50,1,Chloé Richard,Indépendant
+ORD-00014,2025-11-18,Ordinateur portable Essentiel 15,Informatique,Rouen,Normandie,741.51,4,Chloé Richard,Association
+ORD-00015,2026-01-19,Ordinateur portable Pro 14,Informatique,Boulogne-Billancourt,Île-de-France,1273.02,14,Thomas Bernard,Grande entreprise
+ORD-00016,2025-10-08,Switch réseau 8 ports,Réseau,Nîmes,Occitanie,76.70,10,Chloé Richard,PME
+ORD-00017,2025-12-16,Ordinateur portable Essentiel 15,Informatique,Orléans,Centre-Val de Loire,741.51,16,Inès Moreau,Grande entreprise
+ORD-00018,2026-05-04,Ordinateur portable Pro 14,Informatique,Marseille,Provence-Alpes-Côte d'Azur,1273.02,1,Camille Martin,PME
+ORD-00019,2026-01-07,Bureau réglable,Mobilier,Quimper,Bretagne,581.03,2,Lucas Petit,Grande entreprise
+ORD-00020,2025-12-26,Cartouche d'encre XL,Impression,Grenoble,Auvergne-Rhône-Alpes,53.25,1,Mathieu Michel,PME
+ORD-00021,2026-02-24,Chaise ergonomique,Mobilier,Limoges,Nouvelle-Aquitaine,457.98,10,Thomas Bernard,PME
+ORD-00022,2026-03-29,Enceinte portable,Audio,Versailles,Île-de-France,102.90,5,Camille Martin,PME
+ORD-00023,2025-12-17,Clé USB 128 Go,Stockage,Limoges,Nouvelle-Aquitaine,31.10,12,Lucas Petit,PME
+ORD-00024,2026-01-16,Ordinateur portable Essentiel 15,Informatique,Montpellier,Occitanie,756.49,2,Hugo Robert,Indépendant
+ORD-00025,2026-01-20,Chaise ergonomique,Mobilier,Nîmes,Occitanie,444.51,2,Hugo Robert,Grande entreprise
+ORD-00026,2026-08-24,Clé USB 128 Go,Stockage,Nantes,Pays de la Loire,30.20,8,Thomas Bernard,Administration
+ORD-00027,2026-04-05,Tablette 10 pouces,Mobilité,Metz,Grand Est,391.02,4,Inès Moreau,Grande entreprise
+ORD-00028,2026-05-29,Enceinte portable,Audio,Caen,Normandie,100.90,1,Léa Dubois,Grande entreprise
+ORD-00029,2026-01-28,Chaise ergonomique,Mobilier,Rouen,Normandie,431.04,2,Hugo Robert,Indépendant
+ORD-00030,2025-09-10,Disque SSD externe 1 To,Stockage,Lyon,Auvergne-Rhône-Alpes,132.50,13,Manon Durand,Administration
+ORD-00031,2025-12-05,Imprimante multifonction,Impression,Clermont-Ferrand,Auvergne-Rhône-Alpes,249.90,1,Mathieu Michel,Grande entreprise
+ORD-00032,2026-08-26,Écran 27 pouces QHD,Informatique,Marseille,Provence-Alpes-Côte d'Azur,320.00,3,Lucas Petit,Indépendant
+ORD-00033,2025-12-21,Ordinateur portable Essentiel 15,Informatique,La Rochelle,Nouvelle-Aquitaine,719.04,6,Chloé Richard,Indépendant
+ORD-00034,2025-11-21,Enceinte portable,Audio,Caen,Normandie,95.90,7,Camille Martin,PME
+ORD-00035,2026-01-27,Cartouche d'encre XL,Impression,Boulogne-Billancourt,Île-de-France,55.45,10,Inès Moreau,Grande entreprise
+ORD-00036,2026-04-13,Enceinte portable,Audio,Tours,Centre-Val de Loire,103.90,3,Nathan Leroy,PME
+ORD-00037,2026-08-14,Imprimante multifonction,Impression,Rennes,Bretagne,254.90,4,Chloé Richard,PME
+ORD-00038,2026-02-03,Microphone USB,Visioconférence,La Rochelle,Nouvelle-Aquitaine,140.39,5,Léa Dubois,Grande entreprise
+ORD-00039,2026-07-24,Bureau réglable,Mobilier,Nîmes,Occitanie,581.03,1,Camille Martin,PME
+ORD-00040,2025-10-29,Routeur Wi-Fi 6,Réseau,Brest,Bretagne,196.56,1,Lucas Petit,PME
+ORD-00041,2026-03-13,Chaise ergonomique,Mobilier,Reims,Grand Est,457.98,4,Gabriel Simon,Indépendant
+ORD-00042,2025-11-10,Souris sans fil,Accessoires,Roubaix,Hauts-de-France,51.40,3,Hugo Robert,Indépendant
+ORD-00043,2026-02-06,Casque Bluetooth,Audio,Boulogne-Billancourt,Île-de-France,176.30,1,Lucas Petit,Indépendant
+ORD-00044,2026-07-24,Chaise ergonomique,Mobilier,Paris,Île-de-France,466.96,15,Thomas Bernard,Grande entreprise
+ORD-00045,2026-01-19,Écran 27 pouces QHD,Informatique,Marseille,Provence-Alpes-Côte d'Azur,320.00,1,Mathieu Michel,Grande entreprise
+ORD-00046,2026-03-25,Disque SSD externe 1 To,Stockage,Angers,Pays de la Loire,133.80,12,Lucas Petit,PME
+ORD-00047,2026-01-30,Écran 27 pouces QHD,Informatique,Nîmes,Occitanie,343.10,1,Gabriel Simon,Indépendant
+ORD-00048,2026-06-06,Enceinte portable,Audio,Nice,Provence-Alpes-Côte d'Azur,100.90,1,Sarah Laurent,PME
+ORD-00049,2025-10-09,Routeur Wi-Fi 6,Réseau,La Rochelle,Nouvelle-Aquitaine,194.67,5,Thomas Bernard,PME
+ORD-00050,2026-02-07,Clavier mécanique,Accessoires,Nîmes,Occitanie,124.70,13,Chloé Richard,Administration
+ORD-00051,2025-11-28,Cartouche d'encre XL,Impression,Le Havre,Normandie,57.10,17,Thomas Bernard,Administration
+ORD-00052,2026-01-29,Tablette 10 pouces,Mobilité,Lyon,Auvergne-Rhône-Alpes,402.99,10,Hugo Robert,PME
+ORD-00053,2026-04-28,Bureau réglable,Mobilier,Montpellier,Occitanie,610.98,12,Inès Moreau,PME
+ORD-00054,2025-09-29,Ordinateur portable Essentiel 15,Informatique,Rennes,Bretagne,719.04,7,Léa Dubois,PME
+ORD-00055,2025-09-29,Disque SSD externe 1 To,Stockage,Rennes,Bretagne,129.90,9,Inès Moreau,PME
+ORD-00056,2026-01-29,Casque Bluetooth,Audio,Angers,Pays de la Loire,176.30,4,Nathan Leroy,Association
+ORD-00057,2026-03-23,Webcam HD,Visioconférence,Nice,Provence-Alpes-Côte d'Azur,89.90,1,Nathan Leroy,Indépendant
+ORD-00058,2026-02-14,Ordinateur portable Essentiel 15,Informatique,Nice,Provence-Alpes-Côte d'Azur,778.96,11,Manon Durand,PME
+ORD-00059,2025-10-16,Microphone USB,Visioconférence,Toulouse,Occitanie,136.22,10,Camille Martin,PME
+ORD-00060,2025-09-12,Clavier mécanique,Accessoires,Caen,Normandie,123.50,1,Thomas Bernard,Grande entreprise
+ORD-00061,2026-02-18,Station d'accueil USB-C,Accessoires,Lille,Hauts-de-France,159.00,2,Camille Martin,Administration
+ORD-00062,2026-02-05,Clé USB 128 Go,Stockage,Strasbourg,Grand Est,30.50,2,Camille Martin,Administration
+ORD-00063,2026-07-31,Station d'accueil USB-C,Accessoires,Limoges,Nouvelle-Aquitaine,155.82,3,Hugo Robert,Indépendant
+ORD-00064,2025-11-03,Écran 27 pouces QHD,Informatique,Le Mans,Pays de la Loire,339.80,5,Chloé Richard,PME
+ORD-00065,2026-04-23,Écran 27 pouces QHD,Informatique,Boulogne-Billancourt,Île-de-France,343.10,5,Lucas Petit,Indépendant
+ORD-00066,2026-08-22,Imprimante multifonction,Impression,Roubaix,Hauts-de-France,242.40,2,Manon Durand,Administration
+ORD-00067,2025-11-29,Imprimante multifonction,Impression,Le Havre,Normandie,254.90,5,Hugo Robert,PME
+ORD-00068,2026-01-09,Clavier mécanique,Accessoires,Tours,Centre-Val de Loire,121.10,1,Inès Moreau,Indépendant
+ORD-00069,2025-10-31,Imprimante multifonction,Impression,Rennes,Bretagne,254.90,12,Thomas Bernard,PME
+ORD-00070,2026-08-18,Imprimante multifonction,Impression,Tours,Centre-Val de Loire,259.90,18,Inès Moreau,Grande entreprise
+ORD-00071,2026-05-27,Ordinateur portable Essentiel 15,Informatique,Roubaix,Hauts-de-France,726.53,8,Gabriel Simon,PME
+ORD-00072,2026-06-20,Chaise ergonomique,Mobilier,Montpellier,Occitanie,457.98,1,Sarah Laurent,PME
+ORD-00073,2026-07-22,Casque Bluetooth,Audio,Reims,Grand Est,187.10,2,Sarah Laurent,PME
+ORD-00074,2025-12-01,Microphone USB,Visioconférence,Toulouse,Occitanie,139.00,4,Manon Durand,Indépendant
+ORD-00075,2025-09-28,Ordinateur portable Pro 14,Informatique,Limoges,Nouvelle-Aquitaine,1247.04,7,Camille Martin,Grande entreprise
+ORD-00076,2025-09-12,Switch réseau 8 ports,Réseau,Caen,Normandie,81.50,1,Inès Moreau,Indépendant
+ORD-00077,2026-02-17,Clavier mécanique,Accessoires,Rennes,Bretagne,116.30,14,Lucas Petit,Administration
+ORD-00078,2026-08-28,Chaise ergonomique,Mobilier,Nantes,Pays de la Loire,440.02,2,Thomas Bernard,Association
+ORD-00079,2026-03-06,Disque SSD externe 1 To,Stockage,Boulogne-Billancourt,Île-de-France,131.20,3,Inès Moreau,Administration
+ORD-00080,2026-03-23,Casque Bluetooth,Audio,Nice,Provence-Alpes-Côte d'Azur,178.10,6,Nathan Leroy,Administration
+ORD-00081,2026-08-22,Cartouche d'encre XL,Impression,Reims,Grand Est,56.55,6,Camille Martin,Indépendant
+ORD-00082,2026-02-25,Microphone USB,Visioconférence,Nîmes,Occitanie,140.39,5,Thomas Bernard,Indépendant
+ORD-00083,2025-10-24,Station d'accueil USB-C,Accessoires,Roubaix,Hauts-de-France,162.18,2,Gabriel Simon,Indépendant
+ORD-00084,2026-03-22,Clé USB 128 Go,Stockage,Versailles,Île-de-France,29.00,25,Nathan Leroy,Grande entreprise
+ORD-00085,2026-08-15,Chaise ergonomique,Mobilier,Lille,Hauts-de-France,444.51,25,Camille Martin,Grande entreprise
+ORD-00086,2026-08-28,Routeur Wi-Fi 6,Réseau,Brest,Bretagne,192.78,3,Hugo Robert,Indépendant
+ORD-00087,2025-09-08,Ordinateur portable Pro 14,Informatique,Rouen,Normandie,1260.03,14,Gabriel Simon,Administration
+ORD-00088,2026-03-29,Chaise ergonomique,Mobilier,Paris,Île-de-France,457.98,1,Mathieu Michel,Administration
+ORD-00089,2026-07-22,Clé USB 128 Go,Stockage,Lyon,Auvergne-Rhône-Alpes,31.10,2,Thomas Bernard,PME
+ORD-00090,2025-12-07,Bureau réglable,Mobilier,Caen,Normandie,616.97,24,Thomas Bernard,Grande entreprise
+ORD-00091,2025-10-18,Routeur Wi-Fi 6,Réseau,Caen,Normandie,192.78,3,Nathan Leroy,Indépendant
+ORD-00092,2026-05-18,Clé USB 128 Go,Stockage,Roubaix,Hauts-de-France,29.90,12,Sarah Laurent,Administration
+ORD-00093,2026-02-07,Ordinateur portable Essentiel 15,Informatique,Quimper,Bretagne,778.96,6,Mathieu Michel,PME
+ORD-00094,2026-06-25,Clé USB 128 Go,Stockage,Grenoble,Auvergne-Rhône-Alpes,29.00,1,Nathan Leroy,Grande entreprise
+ORD-00095,2026-06-28,Casque Bluetooth,Audio,Paris,Île-de-France,185.30,1,Chloé Richard,Indépendant
+ORD-00096,2026-06-18,Écran 27 pouces QHD,Informatique,Boulogne-Billancourt,Île-de-France,336.50,1,Lucas Petit,Administration
+ORD-00097,2026-08-12,Chaise ergonomique,Mobilier,Le Mans,Pays de la Loire,444.51,7,Manon Durand,PME
+ORD-00098,2025-09-27,Tablette 10 pouces,Mobilité,Amiens,Hauts-de-France,395.01,17,Gabriel Simon,Administration
+ORD-00099,2025-11-16,Ordinateur portable Essentiel 15,Informatique,Paris,Île-de-France,778.96,6,Gabriel Simon,Indépendant
+ORD-00100,2026-03-06,Casque Bluetooth,Audio,Angers,Pays de la Loire,174.50,5,Lucas Petit,PME
+ORD-00101,2025-09-30,Clé USB 128 Go,Stockage,Le Mans,Pays de la Loire,29.30,6,Mathieu Michel,Indépendant
+ORD-00102,2025-09-01,Disque SSD externe 1 To,Stockage,Lille,Hauts-de-France,129.90,3,Manon Durand,Indépendant
+ORD-00103,2026-03-22,Ordinateur portable Pro 14,Informatique,Clermont-Ferrand,Auvergne-Rhône-Alpes,1273.02,1,Thomas Bernard,Indépendant
+ORD-00104,2026-02-23,Ordinateur portable Essentiel 15,Informatique,Brest,Bretagne,756.49,2,Inès Moreau,PME
+ORD-00105,2026-03-25,Ordinateur portable Pro 14,Informatique,Clermont-Ferrand,Auvergne-Rhône-Alpes,1286.01,3,Sarah Laurent,Grande entreprise
+ORD-00106,2026-07-12,Ordinateur portable Essentiel 15,Informatique,Roubaix,Hauts-de-France,771.47,6,Camille Martin,PME
+ORD-00107,2026-06-10,Station d'accueil USB-C,Accessoires,Rouen,Normandie,163.77,4,Manon Durand,Indépendant
+ORD-00108,2026-06-01,Station d'accueil USB-C,Accessoires,Brest,Bretagne,155.82,1,Hugo Robert,PME
+ORD-00109,2026-01-14,Souris sans fil,Accessoires,Limoges,Nouvelle-Aquitaine,49.40,3,Lucas Petit,Administration
+ORD-00110,2025-10-13,Webcam HD,Visioconférence,La Rochelle,Nouvelle-Aquitaine,87.20,6,Léa Dubois,PME
+ORD-00111,2026-03-08,Bureau réglable,Mobilier,Angers,Pays de la Loire,622.96,1,Hugo Robert,Indépendant
+ORD-00112,2025-11-30,Cartouche d'encre XL,Impression,Nice,Provence-Alpes-Côte d'Azur,57.10,4,Nathan Leroy,Grande entreprise
+ORD-00113,2026-07-23,Écran 27 pouces QHD,Informatique,Lille,Hauts-de-France,326.60,2,Hugo Robert,Association
+ORD-00114,2026-05-16,Disque SSD externe 1 To,Stockage,La Rochelle,Nouvelle-Aquitaine,128.60,3,Chloé Richard,PME
+ORD-00115,2026-02-04,Imprimante multifonction,Impression,Bordeaux,Nouvelle-Aquitaine,252.40,7,Nathan Leroy,Grande entreprise
+ORD-00116,2025-09-26,Casque Bluetooth,Audio,Roubaix,Hauts-de-France,174.50,1,Manon Durand,PME
+ORD-00117,2026-07-20,Tablette 10 pouces,Mobilité,Quimper,Bretagne,395.01,11,Léa Dubois,Administration
+ORD-00118,2025-11-08,Microphone USB,Visioconférence,Brest,Bretagne,140.39,7,Camille Martin,Grande entreprise
+ORD-00119,2026-04-07,Routeur Wi-Fi 6,Réseau,Limoges,Nouvelle-Aquitaine,194.67,4,Mathieu Michel,PME
+ORD-00120,2026-05-20,Bureau réglable,Mobilier,Caen,Normandie,581.03,2,Camille Martin,Indépendant
+ORD-00121,2025-11-27,Routeur Wi-Fi 6,Réseau,Tours,Centre-Val de Loire,192.78,2,Lucas Petit,Indépendant
+ORD-00122,2026-02-25,Lampe de bureau LED,Mobilier,Rouen,Normandie,70.60,5,Hugo Robert,PME
+ORD-00123,2025-12-21,Écran 27 pouces QHD,Informatique,Caen,Normandie,323.30,3,Nathan Leroy,Indépendant
+ORD-00124,2026-04-21,Tablette 10 pouces,Mobilité,Caen,Normandie,402.99,2,Manon Durand,PME
+ORD-00125,2026-07-18,Casque Bluetooth,Audio,Bourges,Centre-Val de Loire,181.70,1,Inès Moreau,Indépendant
+ORD-00126,2025-11-06,Écran 27 pouces QHD,Informatique,Nantes,Pays de la Loire,329.90,1,Gabriel Simon,Association
+ORD-00127,2026-03-01,Chaise ergonomique,Mobilier,Roubaix,Hauts-de-France,449.00,1,Sarah Laurent,PME
+ORD-00128,2026-05-08,Disque SSD externe 1 To,Stockage,Toulouse,Occitanie,132.50,1,Gabriel Simon,Indépendant
+ORD-00129,2025-12-23,Enceinte portable,Audio,Bourges,Centre-Val de Loire,99.90,22,Gabriel Simon,Grande entreprise
+ORD-00130,2026-05-02,Clavier mécanique,Accessoires,Rouen,Normandie,115.10,4,Nathan Leroy,Association
+ORD-00131,2026-05-14,Clé USB 128 Go,Stockage,Versailles,Île-de-France,28.70,3,Sarah Laurent,PME
+ORD-00132,2026-01-05,Disque SSD externe 1 To,Stockage,Bourges,Centre-Val de Loire,133.80,17,Chloé Richard,Administration
+ORD-00133,2026-05-04,Imprimante multifonction,Impression,La Rochelle,Nouvelle-Aquitaine,247.40,1,Lucas Petit,PME
+ORD-00134,2026-03-20,Chaise ergonomique,Mobilier,Nice,Provence-Alpes-Côte d'Azur,466.96,1,Thomas Bernard,PME
+ORD-00135,2025-12-01,Lampe de bureau LED,Mobilier,Paris,Île-de-France,70.60,4,Hugo Robert,Indépendant
+ORD-00136,2026-07-14,Écran 27 pouces QHD,Informatique,Quimper,Bretagne,326.60,4,Léa Dubois,Indépendant
+ORD-00137,2025-12-04,Ordinateur portable Essentiel 15,Informatique,Tours,Centre-Val de Loire,734.02,13,Lucas Petit,Grande entreprise
+ORD-00138,2025-10-13,Station d'accueil USB-C,Accessoires,Rouen,Normandie,155.82,4,Inès Moreau,PME
+ORD-00139,2025-09-08,Clavier mécanique,Accessoires,Limoges,Nouvelle-Aquitaine,118.70,12,Manon Durand,Administration
+ORD-00140,2026-04-08,Clé USB 128 Go,Stockage,Rennes,Bretagne,30.20,1,Léa Dubois,PME
+ORD-00141,2026-07-19,Enceinte portable,Audio,Nantes,Pays de la Loire,96.90,5,Camille Martin,Indépendant
+ORD-00142,2026-06-28,Webcam HD,Visioconférence,Grenoble,Auvergne-Rhône-Alpes,89.00,1,Manon Durand,Grande entreprise
+ORD-00143,2025-10-06,Lampe de bureau LED,Mobilier,Nîmes,Occitanie,67.10,2,Nathan Leroy,Administration
+ORD-00144,2025-11-23,Disque SSD externe 1 To,Stockage,Boulogne-Billancourt,Île-de-France,126.00,4,Chloé Richard,Administration
+ORD-00145,2026-03-23,Clavier mécanique,Accessoires,Rouen,Normandie,122.30,4,Nathan Leroy,Association
+ORD-00146,2026-08-30,Bureau réglable,Mobilier,La Rochelle,Nouvelle-Aquitaine,581.03,5,Camille Martin,PME
+ORD-00147,2025-09-11,Imprimante multifonction,Impression,La Rochelle,Nouvelle-Aquitaine,249.90,14,Lucas Petit,Administration
+ORD-00148,2026-05-02,Disque SSD externe 1 To,Stockage,Marseille,Provence-Alpes-Côte d'Azur,128.60,11,Manon Durand,PME
+ORD-00149,2026-01-26,Clé USB 128 Go,Stockage,Strasbourg,Grand Est,29.30,1,Gabriel Simon,PME
+ORD-00150,2025-12-22,Clavier mécanique,Accessoires,Clermont-Ferrand,Auvergne-Rhône-Alpes,117.50,4,Gabriel Simon,Indépendant
+ORD-00151,2026-04-17,Switch réseau 8 ports,Réseau,Toulon,Provence-Alpes-Côte d'Azur,79.10,9,Gabriel Simon,Administration
+ORD-00152,2026-07-02,Station d'accueil USB-C,Accessoires,Le Havre,Normandie,154.23,6,Hugo Robert,Association
+ORD-00153,2026-05-03,Imprimante multifonction,Impression,Bourges,Centre-Val de Loire,257.40,6,Gabriel Simon,Grande entreprise
+ORD-00154,2026-05-17,Routeur Wi-Fi 6,Réseau,Versailles,Île-de-France,187.11,1,Gabriel Simon,Indépendant
+ORD-00155,2026-02-01,Ordinateur portable Essentiel 15,Informatique,Toulon,Provence-Alpes-Côte d'Azur,756.49,8,Lucas Petit,PME
+ORD-00156,2026-03-23,Clé USB 128 Go,Stockage,Nice,Provence-Alpes-Côte d'Azur,30.20,4,Nathan Leroy,Administration
+ORD-00157,2025-12-18,Souris sans fil,Accessoires,Nantes,Pays de la Loire,48.40,4,Mathieu Michel,Association
+ORD-00158,2026-06-19,Switch réseau 8 ports,Réseau,Clermont-Ferrand,Auvergne-Rhône-Alpes,79.10,6,Camille Martin,Indépendant
+ORD-00159,2025-12-05,Ordinateur portable Pro 14,Informatique,Limoges,Nouvelle-Aquitaine,1337.97,12,Thomas Bernard,Grande entreprise
+ORD-00160,2025-12-19,Casque Bluetooth,Audio,Bourges,Centre-Val de Loire,179.90,6,Inès Moreau,Association
+ORD-00161,2026-03-15,Clavier mécanique,Accessoires,Rouen,Normandie,123.50,5,Camille Martin,Grande entreprise
+ORD-00162,2026-08-01,Switch réseau 8 ports,Réseau,Brest,Bretagne,79.10,9,Léa Dubois,Grande entreprise
+ORD-00163,2026-05-13,Tablette 10 pouces,Mobilité,Le Havre,Normandie,395.01,2,Sarah Laurent,PME
+ORD-00164,2026-03-08,Lampe de bureau LED,Mobilier,Orléans,Centre-Val de Loire,67.80,2,Inès Moreau,Association
+ORD-00165,2026-01-18,Ordinateur portable Pro 14,Informatique,Orléans,Centre-Val de Loire,1311.99,8,Gabriel Simon,Grande entreprise
+ORD-00166,2026-01-16,Ordinateur portable Essentiel 15,Informatique,Toulon,Provence-Alpes-Côte d'Azur,741.51,11,Sarah Laurent,PME
+ORD-00167,2025-09-18,Écran 27 pouces QHD,Informatique,Caen,Normandie,343.10,6,Mathieu Michel,PME
+ORD-00168,2026-06-13,Écran 27 pouces QHD,Informatique,Roubaix,Hauts-de-France,320.00,3,Lucas Petit,Indépendant
+ORD-00169,2026-07-24,Cartouche d'encre XL,Impression,Clermont-Ferrand,Auvergne-Rhône-Alpes,56.00,4,Inès Moreau,Association
+ORD-00170,2026-04-14,Lampe de bureau LED,Mobilier,Amiens,Hauts-de-France,72.70,4,Hugo Robert,Administration
+ORD-00171,2026-01-15,Cartouche d'encre XL,Impression,Bourges,Centre-Val de Loire,55.45,9,Gabriel Simon,PME
+ORD-00172,2025-09-13,Souris sans fil,Accessoires,Bourges,Centre-Val de Loire,49.40,4,Nathan Leroy,Grande entreprise
+ORD-00173,2026-05-25,Casque Bluetooth,Audio,Quimper,Bretagne,172.70,13,Camille Martin,Grande entreprise
+ORD-00174,2025-12-06,Lampe de bureau LED,Mobilier,Metz,Grand Est,67.80,6,Sarah Laurent,Indépendant
+ORD-00175,2026-05-30,Imprimante multifonction,Impression,Caen,Normandie,259.90,4,Camille Martin,Grande entreprise
+ORD-00176,2026-03-17,Ordinateur portable Pro 14,Informatique,Toulouse,Occitanie,1299.00,7,Nathan Leroy,Administration
+ORD-00177,2026-01-16,Casque Bluetooth,Audio,Metz,Grand Est,187.10,1,Lucas Petit,PME
+ORD-00178,2025-12-12,Clavier mécanique,Accessoires,Reims,Grand Est,116.30,9,Chloé Richard,Administration
+ORD-00179,2026-02-19,Casque Bluetooth,Audio,Amiens,Hauts-de-France,183.50,2,Inès Moreau,PME
+ORD-00180,2026-02-13,Bureau réglable,Mobilier,Le Mans,Pays de la Loire,581.03,1,Hugo Robert,Indépendant
+ORD-00181,2026-08-05,Souris sans fil,Accessoires,Lyon,Auvergne-Rhône-Alpes,49.40,7,Mathieu Michel,PME
+ORD-00182,2026-06-05,Lampe de bureau LED,Mobilier,Paris,Île-de-France,68.50,2,Mathieu Michel,PME
+ORD-00183,2025-11-27,Lampe de bureau LED,Mobilier,Clermont-Ferrand,Auvergne-Rhône-Alpes,69.90,1,Chloé Richard,Administration
+ORD-00184,2025-09-25,Souris sans fil,Accessoires,Toulouse,Occitanie,48.90,11,Sarah Laurent,PME
+ORD-00185,2026-02-09,Clavier mécanique,Accessoires,Brest,Bretagne,122.30,7,Lucas Petit,Administration
+ORD-00186,2025-09-18,Casque Bluetooth,Audio,Orléans,Centre-Val de Loire,185.30,10,Hugo Robert,Grande entreprise
+ORD-00187,2025-12-30,Casque Bluetooth,Audio,Montpellier,Occitanie,176.30,1,Gabriel Simon,Indépendant
+ORD-00188,2025-10-12,Station d'accueil USB-C,Accessoires,Reims,Grand Est,159.00,12,Thomas Bernard,PME
+ORD-00189,2025-10-28,Chaise ergonomique,Mobilier,Limoges,Nouvelle-Aquitaine,453.49,3,Lucas Petit,PME
+ORD-00190,2025-11-13,Lampe de bureau LED,Mobilier,Limoges,Nouvelle-Aquitaine,67.80,3,Gabriel Simon,PME
+ORD-00191,2025-12-12,Lampe de bureau LED,Mobilier,Reims,Grand Est,71.30,3,Nathan Leroy,Grande entreprise
+ORD-00192,2026-06-04,Enceinte portable,Audio,Rennes,Bretagne,99.90,10,Gabriel Simon,PME
+ORD-00193,2025-10-17,Routeur Wi-Fi 6,Réseau,Caen,Normandie,196.56,2,Gabriel Simon,Indépendant
+ORD-00194,2025-09-01,Imprimante multifonction,Impression,Paris,Île-de-France,242.40,2,Nathan Leroy,Indépendant
+ORD-00195,2026-06-06,Clavier mécanique,Accessoires,Le Mans,Pays de la Loire,122.30,11,Camille Martin,PME
+ORD-00196,2025-09-27,Ordinateur portable Essentiel 15,Informatique,Marseille,Provence-Alpes-Côte d'Azur,741.51,12,Gabriel Simon,PME
+ORD-00197,2025-10-04,Cartouche d'encre XL,Impression,Bordeaux,Nouvelle-Aquitaine,56.00,1,Nathan Leroy,Grande entreprise
+ORD-00198,2025-09-09,Station d'accueil USB-C,Accessoires,Montpellier,Occitanie,155.82,1,Camille Martin,Indépendant
+ORD-00199,2026-03-03,Routeur Wi-Fi 6,Réseau,Brest,Bretagne,192.78,1,Léa Dubois,PME
+ORD-00200,2025-11-05,Webcam HD,Visioconférence,Quimper,Bretagne,89.90,11,Hugo Robert,Grande entreprise
+ORD-00201,2026-04-01,Station d'accueil USB-C,Accessoires,Amiens,Hauts-de-France,152.64,17,Mathieu Michel,Grande entreprise
+ORD-00202,2026-02-24,Tablette 10 pouces,Mobilité,Angers,Pays de la Loire,406.98,7,Mathieu Michel,PME
+ORD-00203,2026-02-22,Imprimante multifonction,Impression,Toulon,Provence-Alpes-Côte d'Azur,249.90,2,Léa Dubois,PME
+ORD-00204,2026-01-17,Ordinateur portable Essentiel 15,Informatique,Clermont-Ferrand,Auvergne-Rhône-Alpes,756.49,6,Thomas Bernard,Grande entreprise
+ORD-00205,2026-04-11,Chaise ergonomique,Mobilier,Quimper,Bretagne,431.04,11,Manon Durand,Administration
+ORD-00206,2026-07-10,Clavier mécanique,Accessoires,La Rochelle,Nouvelle-Aquitaine,117.50,4,Inès Moreau,PME
+ORD-00207,2026-06-14,Ordinateur portable Pro 14,Informatique,Versailles,Île-de-France,1286.01,2,Nathan Leroy,Administration
+ORD-00208,2026-07-13,Bureau réglable,Mobilier,Toulouse,Occitanie,604.99,1,Hugo Robert,PME
+ORD-00209,2026-02-11,Bureau réglable,Mobilier,Lille,Hauts-de-France,610.98,11,Hugo Robert,PME
+ORD-00210,2026-02-27,Lampe de bureau LED,Mobilier,Amiens,Hauts-de-France,72.70,12,Manon Durand,PME
+ORD-00211,2026-07-06,Écran 27 pouces QHD,Informatique,Versailles,Île-de-France,320.00,1,Manon Durand,Association
+ORD-00212,2026-08-03,Station d'accueil USB-C,Accessoires,Montpellier,Occitanie,162.18,1,Chloé Richard,Indépendant
+ORD-00213,2025-12-26,Microphone USB,Visioconférence,Lyon,Auvergne-Rhône-Alpes,133.44,9,Chloé Richard,PME
+ORD-00214,2026-05-17,Clavier mécanique,Accessoires,Versailles,Île-de-France,117.50,1,Inès Moreau,PME
+ORD-00215,2026-07-29,Lampe de bureau LED,Mobilier,Le Havre,Normandie,70.60,6,Lucas Petit,Indépendant
+ORD-00216,2026-05-09,Tablette 10 pouces,Mobilité,La Rochelle,Nouvelle-Aquitaine,387.03,1,Inès Moreau,Indépendant
+ORD-00217,2025-09-12,Microphone USB,Visioconférence,Amiens,Hauts-de-France,139.00,3,Hugo Robert,Grande entreprise
+ORD-00218,2025-10-17,Écran 27 pouces QHD,Informatique,Grenoble,Auvergne-Rhône-Alpes,326.60,6,Inès Moreau,Administration
+ORD-00219,2026-08-18,Station d'accueil USB-C,Accessoires,Le Havre,Normandie,165.36,1,Hugo Robert,Administration
+ORD-00220,2026-07-02,Disque SSD externe 1 To,Stockage,Metz,Grand Est,126.00,9,Nathan Leroy,Grande entreprise
+ORD-00221,2026-07-17,Clé USB 128 Go,Stockage,Nîmes,Occitanie,30.20,2,Mathieu Michel,PME
+ORD-00222,2025-11-07,Microphone USB,Visioconférence,Orléans,Centre-Val de Loire,139.00,3,Chloé Richard,Association
+ORD-00223,2026-03-15,Lampe de bureau LED,Mobilier,Grenoble,Auvergne-Rhône-Alpes,69.20,3,Inès Moreau,Indépendant
+ORD-00224,2026-06-22,Disque SSD externe 1 To,Stockage,Orléans,Centre-Val de Loire,126.00,16,Sarah Laurent,Administration
+ORD-00225,2025-12-15,Routeur Wi-Fi 6,Réseau,Nîmes,Occitanie,190.89,1,Gabriel Simon,Indépendant
+ORD-00226,2025-10-10,Bureau réglable,Mobilier,La Rochelle,Nouvelle-Aquitaine,575.04,2,Lucas Petit,Indépendant
+ORD-00227,2025-09-11,Écran 27 pouces QHD,Informatique,Metz,Grand Est,329.90,11,Mathieu Michel,Administration
+ORD-00228,2026-02-13,Microphone USB,Visioconférence,Amiens,Hauts-de-France,134.83,1,Camille Martin,Indépendant
+ORD-00229,2025-10-24,Tablette 10 pouces,Mobilité,Quimper,Bretagne,383.04,3,Léa Dubois,Indépendant
+ORD-00230,2026-06-16,Enceinte portable,Audio,Le Havre,Normandie,102.90,1,Camille Martin,Grande entreprise
+ORD-00231,2026-02-27,Station d'accueil USB-C,Accessoires,Quimper,Bretagne,154.23,1,Lucas Petit,Association
+ORD-00232,2025-10-29,Station d'accueil USB-C,Accessoires,Versailles,Île-de-France,155.82,1,Lucas Petit,Indépendant
+ORD-00233,2026-04-24,Tablette 10 pouces,Mobilité,Roubaix,Hauts-de-France,406.98,16,Gabriel Simon,Administration
+ORD-00234,2026-01-04,Enceinte portable,Audio,Tours,Centre-Val de Loire,95.90,8,Sarah Laurent,Administration
+ORD-00235,2025-09-19,Lampe de bureau LED,Mobilier,Angers,Pays de la Loire,71.30,3,Mathieu Michel,Grande entreprise
+ORD-00236,2026-07-11,Enceinte portable,Audio,Clermont-Ferrand,Auvergne-Rhône-Alpes,96.90,15,Inès Moreau,Administration
+ORD-00237,2025-10-30,Écran 27 pouces QHD,Informatique,Bordeaux,Nouvelle-Aquitaine,336.50,15,Nathan Leroy,Grande entreprise
+ORD-00238,2025-12-13,Ordinateur portable Pro 14,Informatique,Rouen,Normandie,1337.97,6,Manon Durand,Administration
+ORD-00239,2026-01-12,Bureau réglable,Mobilier,Clermont-Ferrand,Auvergne-Rhône-Alpes,616.97,18,Manon Durand,Grande entreprise
+ORD-00240,2026-03-09,Disque SSD externe 1 To,Stockage,Lyon,Auvergne-Rhône-Alpes,128.60,1,Nathan Leroy,Grande entreprise
+ORD-00241,2026-04-02,Station d'accueil USB-C,Accessoires,Metz,Grand Est,157.41,1,Léa Dubois,Indépendant
+ORD-00242,2026-03-31,Disque SSD externe 1 To,Stockage,Bordeaux,Nouvelle-Aquitaine,126.00,6,Thomas Bernard,Indépendant
+ORD-00243,2026-07-03,Disque SSD externe 1 To,Stockage,Orléans,Centre-Val de Loire,135.10,6,Sarah Laurent,Grande entreprise
+ORD-00244,2026-08-16,Bureau réglable,Mobilier,Nantes,Pays de la Loire,587.02,4,Lucas Petit,Administration
+ORD-00245,2026-07-23,Tablette 10 pouces,Mobilité,Clermont-Ferrand,Auvergne-Rhône-Alpes,395.01,7,Lucas Petit,Grande entreprise
+ORD-00246,2025-10-05,Chaise ergonomique,Mobilier,Rouen,Normandie,453.49,1,Chloé Richard,PME
+ORD-00247,2026-02-04,Cartouche d'encre XL,Impression,Toulon,Provence-Alpes-Côte d'Azur,56.00,2,Mathieu Michel,Administration
+ORD-00248,2025-10-13,Tablette 10 pouces,Mobilité,Lille,Hauts-de-France,410.97,5,Inès Moreau,Administration
+ORD-00249,2025-10-08,Microphone USB,Visioconférence,Tours,Centre-Val de Loire,133.44,1,Hugo Robert,PME
+ORD-00250,2025-10-03,Cartouche d'encre XL,Impression,Tours,Centre-Val de Loire,53.80,12,Camille Martin,PME
+ORD-00251,2025-12-29,Souris sans fil,Accessoires,Montpellier,Occitanie,48.90,8,Mathieu Michel,Grande entreprise
+ORD-00252,2025-10-20,Bureau réglable,Mobilier,Grenoble,Auvergne-Rhône-Alpes,616.97,1,Thomas Bernard,Administration
+ORD-00253,2026-06-26,Station d'accueil USB-C,Accessoires,Versailles,Île-de-France,165.36,1,Chloé Richard,Association
+ORD-00254,2026-06-27,Switch réseau 8 ports,Réseau,Nîmes,Occitanie,80.70,3,Sarah Laurent,Association
+ORD-00255,2026-07-06,Switch réseau 8 ports,Réseau,Toulon,Provence-Alpes-Côte d'Azur,76.70,10,Inès Moreau,Grande entreprise
+ORD-00256,2026-07-03,Tablette 10 pouces,Mobilité,Le Havre,Normandie,395.01,3,Thomas Bernard,Grande entreprise
+ORD-00257,2026-08-07,Écran 27 pouces QHD,Informatique,Lille,Hauts-de-France,336.50,19,Hugo Robert,Grande entreprise
+ORD-00258,2026-02-11,Lampe de bureau LED,Mobilier,Quimper,Bretagne,67.10,16,Mathieu Michel,Administration
+ORD-00259,2025-11-17,Écran 27 pouces QHD,Informatique,Quimper,Bretagne,329.90,11,Hugo Robert,Administration
+ORD-00260,2026-02-27,Enceinte portable,Audio,Le Mans,Pays de la Loire,95.90,12,Sarah Laurent,PME
+ORD-00261,2026-01-02,Écran 27 pouces QHD,Informatique,Rouen,Normandie,320.00,3,Lucas Petit,PME
+ORD-00262,2026-06-02,Clavier mécanique,Accessoires,Paris,Île-de-France,117.50,2,Manon Durand,PME
+ORD-00263,2025-11-22,Clé USB 128 Go,Stockage,Paris,Île-de-France,29.90,1,Mathieu Michel,PME
+ORD-00264,2026-08-17,Disque SSD externe 1 To,Stockage,Strasbourg,Grand Est,129.90,7,Thomas Bernard,PME
+ORD-00265,2026-04-08,Switch réseau 8 ports,Réseau,Angers,Pays de la Loire,79.90,4,Léa Dubois,PME
+ORD-00266,2026-01-07,Écran 27 pouces QHD,Informatique,Versailles,Île-de-France,326.60,4,Lucas Petit,Indépendant
+ORD-00267,2026-07-21,Tablette 10 pouces,Mobilité,Marseille,Provence-Alpes-Côte d'Azur,395.01,5,Chloé Richard,Indépendant
+ORD-00268,2026-04-05,Routeur Wi-Fi 6,Réseau,Nice,Provence-Alpes-Côte d'Azur,185.22,16,Sarah Laurent,Grande entreprise
+ORD-00269,2026-08-25,Switch réseau 8 ports,Réseau,Montpellier,Occitanie,81.50,1,Manon Durand,Administration
+ORD-00270,2026-02-26,Enceinte portable,Audio,Angers,Pays de la Loire,99.90,12,Inès Moreau,PME
+ORD-00271,2026-02-19,Cartouche d'encre XL,Impression,Le Mans,Pays de la Loire,56.00,2,Inès Moreau,PME
+ORD-00272,2026-02-17,Webcam HD,Visioconférence,Limoges,Nouvelle-Aquitaine,88.10,2,Thomas Bernard,Administration
+ORD-00273,2025-12-17,Station d'accueil USB-C,Accessoires,Lyon,Auvergne-Rhône-Alpes,162.18,1,Léa Dubois,PME
+ORD-00274,2026-03-06,Clavier mécanique,Accessoires,Caen,Normandie,121.10,1,Nathan Leroy,PME
+ORD-00275,2026-05-12,Casque Bluetooth,Audio,Montpellier,Occitanie,174.50,5,Chloé Richard,Association
+ORD-00276,2026-07-01,Station d'accueil USB-C,Accessoires,Amiens,Hauts-de-France,155.82,6,Thomas Bernard,PME
+ORD-00277,2026-02-01,Chaise ergonomique,Mobilier,Montpellier,Occitanie,457.98,6,Thomas Bernard,PME
+ORD-00278,2026-04-15,Ordinateur portable Essentiel 15,Informatique,Montpellier,Occitanie,771.47,5,Nathan Leroy,PME
+ORD-00279,2026-08-02,Bureau réglable,Mobilier,Lyon,Auvergne-Rhône-Alpes,622.96,7,Chloé Richard,Administration
+ORD-00280,2026-07-30,Chaise ergonomique,Mobilier,Boulogne-Billancourt,Île-de-France,444.51,9,Léa Dubois,PME
+ORD-00281,2026-03-14,Ordinateur portable Essentiel 15,Informatique,Montpellier,Occitanie,763.98,7,Sarah Laurent,PME
+ORD-00282,2026-04-04,Routeur Wi-Fi 6,Réseau,Versailles,Île-de-France,187.11,7,Manon Durand,PME
+ORD-00283,2026-03-06,Station d'accueil USB-C,Accessoires,Grenoble,Auvergne-Rhône-Alpes,152.64,15,Léa Dubois,Grande entreprise
+ORD-00284,2025-12-31,Webcam HD,Visioconférence,Clermont-Ferrand,Auvergne-Rhône-Alpes,88.10,1,Hugo Robert,PME
+ORD-00285,2025-12-21,Switch réseau 8 ports,Réseau,Roubaix,Hauts-de-France,81.50,1,Gabriel Simon,Association
+ORD-00286,2026-02-06,Station d'accueil USB-C,Accessoires,Amiens,Hauts-de-France,152.64,14,Hugo Robert,Administration
+ORD-00287,2026-07-08,Écran 27 pouces QHD,Informatique,Versailles,Île-de-France,333.20,15,Mathieu Michel,Administration
+ORD-00288,2026-07-19,Imprimante multifonction,Impression,Bourges,Centre-Val de Loire,244.90,2,Sarah Laurent,Indépendant
+ORD-00289,2026-05-03,Routeur Wi-Fi 6,Réseau,Bordeaux,Nouvelle-Aquitaine,187.11,2,Lucas Petit,Association
+ORD-00290,2025-11-29,Chaise ergonomique,Mobilier,Caen,Normandie,453.49,1,Camille Martin,Administration
+ORD-00291,2026-04-11,Bureau réglable,Mobilier,Rouen,Normandie,575.04,12,Léa Dubois,PME
+ORD-00292,2026-01-26,Casque Bluetooth,Audio,Lille,Hauts-de-France,183.50,11,Nathan Leroy,PME
+ORD-00293,2026-08-01,Imprimante multifonction,Impression,Rennes,Bretagne,242.40,19,Gabriel Simon,Grande entreprise
+ORD-00294,2026-05-28,Switch réseau 8 ports,Réseau,Lyon,Auvergne-Rhône-Alpes,81.50,8,Sarah Laurent,PME
+ORD-00295,2025-11-29,Clavier mécanique,Accessoires,Toulouse,Occitanie,116.30,3,Mathieu Michel,Administration
+ORD-00296,2026-08-16,Tablette 10 pouces,Mobilité,Reims,Grand Est,410.97,10,Nathan Leroy,PME
+ORD-00297,2025-11-06,Casque Bluetooth,Audio,Metz,Grand Est,187.10,3,Manon Durand,Association
+ORD-00298,2025-11-02,Routeur Wi-Fi 6,Réseau,Grenoble,Auvergne-Rhône-Alpes,189.00,5,Léa Dubois,Grande entreprise
+ORD-00299,2026-07-13,Ordinateur portable Essentiel 15,Informatique,Paris,Île-de-France,741.51,5,Thomas Bernard,Indépendant
+ORD-00300,2026-04-01,Switch réseau 8 ports,Réseau,Bourges,Centre-Val de Loire,82.30,2,Sarah Laurent,Indépendant
+ORD-00301,2026-04-14,Webcam HD,Visioconférence,Amiens,Hauts-de-France,89.00,2,Nathan Leroy,PME
+ORD-00302,2026-05-11,Enceinte portable,Audio,Angers,Pays de la Loire,98.90,4,Lucas Petit,Grande entreprise
+ORD-00303,2026-07-26,Bureau réglable,Mobilier,Toulouse,Occitanie,622.96,8,Léa Dubois,PME
+ORD-00304,2025-12-20,Cartouche d'encre XL,Impression,Nantes,Pays de la Loire,56.00,1,Nathan Leroy,Indépendant
+ORD-00305,2026-06-17,Routeur Wi-Fi 6,Réseau,Montpellier,Occitanie,190.89,5,Thomas Bernard,Indépendant
+ORD-00306,2025-12-06,Souris sans fil,Accessoires,Quimper,Bretagne,49.40,18,Gabriel Simon,Administration
+ORD-00307,2025-12-02,Souris sans fil,Accessoires,Nantes,Pays de la Loire,48.40,6,Hugo Robert,Indépendant
+ORD-00308,2025-11-18,Station d'accueil USB-C,Accessoires,Lyon,Auvergne-Rhône-Alpes,155.82,1,Thomas Bernard,Grande entreprise
+ORD-00309,2025-10-18,Tablette 10 pouces,Mobilité,Tours,Centre-Val de Loire,406.98,9,Gabriel Simon,PME
+ORD-00310,2026-06-01,Bureau réglable,Mobilier,Orléans,Centre-Val de Loire,587.02,17,Inès Moreau,Administration
+ORD-00311,2026-07-03,Clavier mécanique,Accessoires,Toulon,Provence-Alpes-Côte d'Azur,122.30,1,Nathan Leroy,Indépendant
+ORD-00312,2026-06-10,Routeur Wi-Fi 6,Réseau,Bordeaux,Nouvelle-Aquitaine,194.67,1,Nathan Leroy,Indépendant
+ORD-00313,2026-01-25,Clavier mécanique,Accessoires,Boulogne-Billancourt,Île-de-France,121.10,5,Gabriel Simon,Grande entreprise
+ORD-00314,2026-06-22,Microphone USB,Visioconférence,Strasbourg,Grand Est,133.44,1,Lucas Petit,Administration
+ORD-00315,2026-05-06,Station d'accueil USB-C,Accessoires,Roubaix,Hauts-de-France,163.77,1,Léa Dubois,Indépendant
+ORD-00316,2026-04-16,Cartouche d'encre XL,Impression,Lille,Hauts-de-France,52.70,1,Hugo Robert,Administration
+ORD-00317,2026-04-14,Casque Bluetooth,Audio,Quimper,Bretagne,183.50,5,Thomas Bernard,Indépendant
+ORD-00318,2026-04-17,Switch réseau 8 ports,Réseau,Toulouse,Occitanie,83.10,1,Inès Moreau,PME
+ORD-00319,2025-09-09,Clavier mécanique,Accessoires,Grenoble,Auvergne-Rhône-Alpes,123.50,3,Inès Moreau,Indépendant
+ORD-00320,2026-04-10,Tablette 10 pouces,Mobilité,Metz,Grand Est,402.99,12,Sarah Laurent,Administration
+ORD-00321,2026-06-25,Switch réseau 8 ports,Réseau,Paris,Île-de-France,80.70,3,Léa Dubois,PME
+ORD-00322,2026-05-28,Disque SSD externe 1 To,Stockage,Lille,Hauts-de-France,133.80,2,Hugo Robert,Administration
+ORD-00323,2025-10-03,Station d'accueil USB-C,Accessoires,Paris,Île-de-France,154.23,7,Manon Durand,Grande entreprise
+ORD-00324,2026-06-21,Souris sans fil,Accessoires,Bordeaux,Nouvelle-Aquitaine,51.90,8,Gabriel Simon,PME
+ORD-00325,2026-04-01,Microphone USB,Visioconférence,Limoges,Nouvelle-Aquitaine,136.22,18,Léa Dubois,Administration
+ORD-00326,2026-01-06,Chaise ergonomique,Mobilier,Clermont-Ferrand,Auvergne-Rhône-Alpes,444.51,9,Nathan Leroy,PME
+ORD-00327,2026-01-29,Routeur Wi-Fi 6,Réseau,Amiens,Hauts-de-France,183.33,2,Lucas Petit,Association
+ORD-00328,2026-05-04,Disque SSD externe 1 To,Stockage,Quimper,Bretagne,135.10,1,Inès Moreau,Indépendant
+ORD-00329,2025-12-24,Clavier mécanique,Accessoires,Rouen,Normandie,115.10,11,Lucas Petit,Administration
+ORD-00330,2026-08-26,Chaise ergonomique,Mobilier,Brest,Bretagne,435.53,2,Inès Moreau,Administration
+ORD-00331,2026-08-09,Switch réseau 8 ports,Réseau,Brest,Bretagne,80.70,2,Gabriel Simon,Indépendant
+ORD-00332,2026-05-24,Bureau réglable,Mobilier,Amiens,Hauts-de-France,593.01,9,Léa Dubois,Grande entreprise
+ORD-00333,2026-03-27,Tablette 10 pouces,Mobilité,Boulogne-Billancourt,Île-de-France,383.04,1,Camille Martin,Indépendant
+ORD-00334,2026-01-13,Ordinateur portable Essentiel 15,Informatique,Tours,Centre-Val de Loire,719.04,1,Mathieu Michel,Indépendant
+ORD-00335,2025-12-17,Imprimante multifonction,Impression,Toulon,Provence-Alpes-Côte d'Azur,249.90,4,Camille Martin,Indépendant
+ORD-00336,2025-12-10,Souris sans fil,Accessoires,Caen,Normandie,50.90,1,Camille Martin,PME
+ORD-00337,2026-08-31,Routeur Wi-Fi 6,Réseau,Metz,Grand Est,181.44,7,Nathan Leroy,Administration
+ORD-00338,2026-07-04,Ordinateur portable Pro 14,Informatique,Versailles,Île-de-France,1324.98,2,Hugo Robert,PME
+ORD-00339,2026-08-04,Souris sans fil,Accessoires,Toulon,Provence-Alpes-Côte d'Azur,51.40,8,Nathan Leroy,PME
+ORD-00340,2025-10-30,Clé USB 128 Go,Stockage,Lyon,Auvergne-Rhône-Alpes,30.20,2,Camille Martin,PME
+ORD-00341,2026-05-12,Microphone USB,Visioconférence,Paris,Île-de-France,139.00,6,Manon Durand,PME
+ORD-00342,2026-05-21,Enceinte portable,Audio,Rennes,Bretagne,97.90,4,Thomas Bernard,PME
+ORD-00343,2026-08-16,Enceinte portable,Audio,Angers,Pays de la Loire,101.90,2,Léa Dubois,Indépendant
+ORD-00344,2026-03-16,Écran 27 pouces QHD,Informatique,Montpellier,Occitanie,339.80,5,Sarah Laurent,PME
+ORD-00345,2026-08-26,Microphone USB,Visioconférence,Grenoble,Auvergne-Rhône-Alpes,139.00,11,Camille Martin,Administration
+ORD-00346,2026-02-01,Switch réseau 8 ports,Réseau,Lille,Hauts-de-France,82.30,8,Hugo Robert,PME
+ORD-00347,2025-09-26,Ordinateur portable Essentiel 15,Informatique,Montpellier,Occitanie,741.51,3,Gabriel Simon,PME
+ORD-00348,2025-10-06,Lampe de bureau LED,Mobilier,Amiens,Hauts-de-France,72.70,14,Manon Durand,Administration
+ORD-00349,2026-08-24,Switch réseau 8 ports,Réseau,Tours,Centre-Val de Loire,83.10,10,Inès Moreau,PME
+ORD-00350,2025-12-03,Souris sans fil,Accessoires,Montpellier,Occitanie,50.90,7,Sarah Laurent,Grande entreprise
+ORD-00351,2026-04-30,Disque SSD externe 1 To,Stockage,La Rochelle,Nouvelle-Aquitaine,124.70,1,Camille Martin,PME
+ORD-00352,2025-12-30,Webcam HD,Visioconférence,Nantes,Pays de la Loire,87.20,1,Sarah Laurent,Indépendant
+ORD-00353,2026-01-21,Chaise ergonomique,Mobilier,Lille,Hauts-de-France,457.98,9,Lucas Petit,PME
+ORD-00354,2025-11-05,Lampe de bureau LED,Mobilier,Brest,Bretagne,70.60,10,Gabriel Simon,PME
+ORD-00355,2025-10-08,Microphone USB,Visioconférence,Quimper,Bretagne,134.83,11,Sarah Laurent,PME
+ORD-00356,2026-05-11,Tablette 10 pouces,Mobilité,Rennes,Bretagne,402.99,1,Gabriel Simon,PME
+ORD-00357,2026-02-25,Webcam HD,Visioconférence,Limoges,Nouvelle-Aquitaine,90.80,4,Chloé Richard,PME
+ORD-00358,2026-08-15,Souris sans fil,Accessoires,Orléans,Centre-Val de Loire,48.90,23,Gabriel Simon,Grande entreprise
+ORD-00359,2026-08-03,Cartouche d'encre XL,Impression,Strasbourg,Grand Est,54.90,4,Sarah Laurent,Indépendant
+ORD-00360,2026-06-07,Tablette 10 pouces,Mobilité,Toulon,Provence-Alpes-Côte d'Azur,387.03,2,Thomas Bernard,Grande entreprise
+ORD-00361,2025-10-17,Bureau réglable,Mobilier,La Rochelle,Nouvelle-Aquitaine,610.98,1,Gabriel Simon,Indépendant
+ORD-00362,2026-02-24,Écran 27 pouces QHD,Informatique,Versailles,Île-de-France,333.20,9,Inès Moreau,PME
+ORD-00363,2025-10-20,Microphone USB,Visioconférence,Le Havre,Normandie,134.83,9,Manon Durand,PME
+ORD-00364,2026-06-23,Webcam HD,Visioconférence,Montpellier,Occitanie,92.60,3,Camille Martin,Association
+ORD-00365,2025-12-15,Microphone USB,Visioconférence,Versailles,Île-de-France,143.17,2,Chloé Richard,PME
+ORD-00366,2025-12-06,Lampe de bureau LED,Mobilier,Tours,Centre-Val de Loire,69.90,8,Léa Dubois,Grande entreprise
+ORD-00367,2025-10-13,Station d'accueil USB-C,Accessoires,Boulogne-Billancourt,Île-de-France,162.18,7,Thomas Bernard,Administration
+ORD-00368,2025-12-08,Routeur Wi-Fi 6,Réseau,Angers,Pays de la Loire,192.78,12,Inès Moreau,PME
+ORD-00369,2026-03-13,Enceinte portable,Audio,Nîmes,Occitanie,96.90,14,Léa Dubois,Grande entreprise
+ORD-00370,2025-11-30,Microphone USB,Visioconférence,Nantes,Pays de la Loire,134.83,5,Manon Durand,PME
+ORD-00371,2026-05-11,Enceinte portable,Audio,Le Havre,Normandie,99.90,3,Camille Martin,PME
+ORD-00372,2025-10-15,Ordinateur portable Pro 14,Informatique,Roubaix,Hauts-de-France,1260.03,5,Nathan Leroy,PME
+ORD-00373,2025-11-29,Casque Bluetooth,Audio,Brest,Bretagne,183.50,17,Camille Martin,Administration
+ORD-00374,2026-03-11,Station d'accueil USB-C,Accessoires,Marseille,Provence-Alpes-Côte d'Azur,152.64,1,Sarah Laurent,Administration
+ORD-00375,2026-01-22,Souris sans fil,Accessoires,Tours,Centre-Val de Loire,51.90,6,Gabriel Simon,Administration
+ORD-00376,2025-11-09,Souris sans fil,Accessoires,Clermont-Ferrand,Auvergne-Rhône-Alpes,51.90,1,Sarah Laurent,Grande entreprise
+ORD-00377,2026-06-09,Clé USB 128 Go,Stockage,Rennes,Bretagne,30.20,4,Camille Martin,Grande entreprise
+ORD-00378,2026-04-22,Lampe de bureau LED,Mobilier,Paris,Île-de-France,69.90,2,Manon Durand,PME
+ORD-00379,2025-09-04,Souris sans fil,Accessoires,Metz,Grand Est,49.90,2,Nathan Leroy,PME
+ORD-00380,2026-05-30,Disque SSD externe 1 To,Stockage,Limoges,Nouvelle-Aquitaine,132.50,14,Chloé Richard,Administration
+ORD-00381,2026-03-27,Imprimante multifonction,Impression,Nantes,Pays de la Loire,257.40,1,Nathan Leroy,Association
+ORD-00382,2026-02-13,Imprimante multifonction,Impression,Boulogne-Billancourt,Île-de-France,249.90,4,Lucas Petit,Grande entreprise
+ORD-00383,2026-07-24,Clavier mécanique,Accessoires,Le Mans,Pays de la Loire,119.90,7,Léa Dubois,Administration
+ORD-00384,2025-09-02,Switch réseau 8 ports,Réseau,Clermont-Ferrand,Auvergne-Rhône-Alpes,76.70,14,Léa Dubois,Administration
+ORD-00385,2025-10-13,Casque Bluetooth,Audio,Grenoble,Auvergne-Rhône-Alpes,178.10,1,Gabriel Simon,Indépendant
+ORD-00386,2026-07-05,Écran 27 pouces QHD,Informatique,Le Havre,Normandie,333.20,4,Chloé Richard,PME
+ORD-00387,2026-05-05,Chaise ergonomique,Mobilier,Bourges,Centre-Val de Loire,431.04,1,Nathan Leroy,Indépendant
+ORD-00388,2026-02-16,Bureau réglable,Mobilier,Bourges,Centre-Val de Loire,599.00,2,Mathieu Michel,Indépendant
+ORD-00389,2025-11-26,Cartouche d'encre XL,Impression,Le Havre,Normandie,52.70,18,Chloé Richard,Administration
+ORD-00390,2026-05-09,Tablette 10 pouces,Mobilité,Rennes,Bretagne,395.01,4,Inès Moreau,Grande entreprise
+ORD-00391,2025-12-17,Chaise ergonomique,Mobilier,Nantes,Pays de la Loire,449.00,5,Sarah Laurent,Administration
+ORD-00392,2025-09-14,Casque Bluetooth,Audio,Caen,Normandie,183.50,8,Hugo Robert,Administration
+ORD-00393,2026-08-17,Microphone USB,Visioconférence,Limoges,Nouvelle-Aquitaine,137.61,20,Camille Martin,Grande entreprise
+ORD-00394,2026-07-20,Clavier mécanique,Accessoires,Nîmes,Occitanie,115.10,1,Léa Dubois,Indépendant
+ORD-00395,2026-03-28,Webcam HD,Visioconférence,Strasbourg,Grand Est,86.30,1,Chloé Richard,Association
+ORD-00396,2026-03-07,Disque SSD externe 1 To,Stockage,Boulogne-Billancourt,Île-de-France,135.10,1,Camille Martin,Association
+ORD-00397,2025-11-09,Bureau réglable,Mobilier,Bourges,Centre-Val de Loire,581.03,12,Thomas Bernard,Grande entreprise
+ORD-00398,2026-01-22,Station d'accueil USB-C,Accessoires,Grenoble,Auvergne-Rhône-Alpes,154.23,16,Thomas Bernard,Grande entreprise
+ORD-00399,2026-04-28,Ordinateur portable Essentiel 15,Informatique,Bordeaux,Nouvelle-Aquitaine,726.53,18,Hugo Robert,Administration
+ORD-00400,2026-06-20,Ordinateur portable Pro 14,Informatique,Clermont-Ferrand,Auvergne-Rhône-Alpes,1260.03,1,Hugo Robert,Association
+ORD-00401,2026-05-18,Clavier mécanique,Accessoires,Le Mans,Pays de la Loire,116.30,1,Thomas Bernard,Association
+ORD-00402,2026-03-08,Souris sans fil,Accessoires,Lyon,Auvergne-Rhône-Alpes,49.40,9,Léa Dubois,PME
+ORD-00403,2025-10-17,Ordinateur portable Pro 14,Informatique,Grenoble,Auvergne-Rhône-Alpes,1260.03,3,Camille Martin,Association
+ORD-00404,2026-08-06,Enceinte portable,Audio,Reims,Grand Est,98.90,1,Nathan Leroy,Indépendant
+ORD-00405,2026-01-13,Ordinateur portable Pro 14,Informatique,Bourges,Centre-Val de Loire,1350.96,6,Lucas Petit,Indépendant
+ORD-00406,2026-08-08,Cartouche d'encre XL,Impression,Lille,Hauts-de-France,52.70,15,Hugo Robert,Administration
+ORD-00407,2026-03-29,Routeur Wi-Fi 6,Réseau,Toulon,Provence-Alpes-Côte d'Azur,190.89,1,Inès Moreau,Indépendant
+ORD-00408,2026-07-08,Clavier mécanique,Accessoires,Rennes,Bretagne,121.10,11,Camille Martin,Administration
+ORD-00409,2026-02-10,Switch réseau 8 ports,Réseau,Clermont-Ferrand,Auvergne-Rhône-Alpes,83.10,4,Lucas Petit,Association
+ORD-00410,2025-11-06,Enceinte portable,Audio,Roubaix,Hauts-de-France,102.90,7,Thomas Bernard,PME
+ORD-00411,2026-07-23,Écran 27 pouces QHD,Informatique,Quimper,Bretagne,339.80,19,Inès Moreau,Grande entreprise
+ORD-00412,2026-02-04,Lampe de bureau LED,Mobilier,Boulogne-Billancourt,Île-de-France,70.60,2,Chloé Richard,Indépendant
+ORD-00413,2026-03-11,Casque Bluetooth,Audio,Toulouse,Occitanie,172.70,1,Thomas Bernard,Indépendant
+ORD-00414,2026-04-11,Lampe de bureau LED,Mobilier,Tours,Centre-Val de Loire,70.60,3,Léa Dubois,Indépendant
+ORD-00415,2026-05-05,Clavier mécanique,Accessoires,Reims,Grand Est,117.50,4,Léa Dubois,PME
+ORD-00416,2025-11-20,Disque SSD externe 1 To,Stockage,Nice,Provence-Alpes-Côte d'Azur,135.10,11,Léa Dubois,Administration
+ORD-00417,2026-01-30,Chaise ergonomique,Mobilier,Limoges,Nouvelle-Aquitaine,466.96,1,Gabriel Simon,Grande entreprise
+ORD-00418,2025-09-05,Ordinateur portable Pro 14,Informatique,Marseille,Provence-Alpes-Côte d'Azur,1350.96,4,Nathan Leroy,Indépendant
+ORD-00419,2026-01-29,Casque Bluetooth,Audio,Nîmes,Occitanie,174.50,3,Gabriel Simon,Indépendant
+ORD-00420,2026-07-24,Station d'accueil USB-C,Accessoires,Reims,Grand Est,162.18,4,Sarah Laurent,Administration
+ORD-00421,2026-07-24,Imprimante multifonction,Impression,Metz,Grand Est,249.90,12,Camille Martin,Grande entreprise
+ORD-00422,2026-02-08,Ordinateur portable Essentiel 15,Informatique,Metz,Grand Est,763.98,23,Léa Dubois,Grande entreprise
+ORD-00423,2026-01-18,Clavier mécanique,Accessoires,Nice,Provence-Alpes-Côte d'Azur,122.30,1,Sarah Laurent,Indépendant
+ORD-00424,2026-02-04,Casque Bluetooth,Audio,Boulogne-Billancourt,Île-de-France,181.70,1,Lucas Petit,Indépendant
+ORD-00425,2026-01-07,Clé USB 128 Go,Stockage,Bourges,Centre-Val de Loire,31.10,3,Nathan Leroy,Association
+ORD-00426,2026-07-30,Souris sans fil,Accessoires,Grenoble,Auvergne-Rhône-Alpes,48.40,6,Hugo Robert,Grande entreprise
+ORD-00427,2026-02-04,Webcam HD,Visioconférence,Boulogne-Billancourt,Île-de-France,87.20,5,Gabriel Simon,PME
+ORD-00428,2026-01-26,Bureau réglable,Mobilier,Le Havre,Normandie,610.98,4,Hugo Robert,Indépendant
+ORD-00429,2026-04-19,Lampe de bureau LED,Mobilier,La Rochelle,Nouvelle-Aquitaine,71.30,2,Gabriel Simon,PME
+ORD-00430,2025-09-10,Clavier mécanique,Accessoires,Marseille,Provence-Alpes-Côte d'Azur,123.50,5,Nathan Leroy,PME
+ORD-00431,2025-09-12,Chaise ergonomique,Mobilier,Bordeaux,Nouvelle-Aquitaine,466.96,9,Hugo Robert,PME
+ORD-00432,2025-09-15,Microphone USB,Visioconférence,Versailles,Île-de-France,144.56,6,Manon Durand,Association
+ORD-00433,2026-03-27,Casque Bluetooth,Audio,Nantes,Pays de la Loire,179.90,9,Nathan Leroy,PME
+ORD-00434,2026-05-11,Cartouche d'encre XL,Impression,Toulouse,Occitanie,53.80,5,Mathieu Michel,Indépendant
+ORD-00435,2026-01-14,Switch réseau 8 ports,Réseau,Rouen,Normandie,78.30,1,Nathan Leroy,Indépendant
+ORD-00436,2026-06-25,Casque Bluetooth,Audio,Rennes,Bretagne,176.30,1,Inès Moreau,PME
+ORD-00437,2025-10-05,Casque Bluetooth,Audio,Versailles,Île-de-France,185.30,1,Nathan Leroy,Indépendant
+ORD-00438,2026-02-22,Microphone USB,Visioconférence,Rennes,Bretagne,137.61,4,Mathieu Michel,Grande entreprise
+ORD-00439,2025-12-08,Webcam HD,Visioconférence,Bordeaux,Nouvelle-Aquitaine,87.20,1,Sarah Laurent,Indépendant
+ORD-00440,2026-06-11,Lampe de bureau LED,Mobilier,Clermont-Ferrand,Auvergne-Rhône-Alpes,72.70,8,Sarah Laurent,Grande entreprise
+ORD-00441,2026-07-24,Webcam HD,Visioconférence,Lyon,Auvergne-Rhône-Alpes,88.10,3,Lucas Petit,Indépendant
+ORD-00442,2025-12-14,Station d'accueil USB-C,Accessoires,Toulon,Provence-Alpes-Côte d'Azur,152.64,10,Inès Moreau,Grande entreprise
+ORD-00443,2025-11-12,Tablette 10 pouces,Mobilité,Toulouse,Occitanie,387.03,1,Lucas Petit,Association
+ORD-00444,2026-08-02,Ordinateur portable Essentiel 15,Informatique,Versailles,Île-de-France,719.04,1,Nathan Leroy,Grande entreprise
+ORD-00445,2026-08-07,Webcam HD,Visioconférence,Reims,Grand Est,93.50,3,Gabriel Simon,PME
+ORD-00446,2026-01-19,Chaise ergonomique,Mobilier,Lille,Hauts-de-France,466.96,1,Manon Durand,Grande entreprise
+ORD-00447,2026-06-16,Clavier mécanique,Accessoires,Lille,Hauts-de-France,124.70,2,Thomas Bernard,Indépendant
+ORD-00448,2025-11-17,Lampe de bureau LED,Mobilier,Nîmes,Occitanie,69.90,3,Inès Moreau,Grande entreprise
+ORD-00449,2026-02-01,Lampe de bureau LED,Mobilier,Le Havre,Normandie,67.80,13,Inès Moreau,Grande entreprise
+ORD-00450,2026-08-28,Switch réseau 8 ports,Réseau,Nice,Provence-Alpes-Côte d'Azur,82.30,1,Lucas Petit,Indépendant
+ORD-00451,2026-03-03,Tablette 10 pouces,Mobilité,Reims,Grand Est,402.99,24,Mathieu Michel,Grande entreprise
+ORD-00452,2025-10-31,Microphone USB,Visioconférence,Grenoble,Auvergne-Rhône-Alpes,137.61,5,Camille Martin,Grande entreprise
+ORD-00453,2026-08-21,Switch réseau 8 ports,Réseau,Roubaix,Hauts-de-France,81.50,4,Inès Moreau,Indépendant
+ORD-00454,2026-07-17,Webcam HD,Visioconférence,Strasbourg,Grand Est,87.20,7,Lucas Petit,PME
+ORD-00455,2026-01-11,Lampe de bureau LED,Mobilier,Rouen,Normandie,67.80,2,Manon Durand,Indépendant
+ORD-00456,2025-09-09,Microphone USB,Visioconférence,Brest,Bretagne,143.17,3,Lucas Petit,PME
+ORD-00457,2025-09-16,Chaise ergonomique,Mobilier,Caen,Normandie,440.02,3,Nathan Leroy,PME
+ORD-00458,2026-06-22,Station d'accueil USB-C,Accessoires,Roubaix,Hauts-de-France,159.00,1,Camille Martin,Administration
+ORD-00459,2026-08-23,Routeur Wi-Fi 6,Réseau,Caen,Normandie,189.00,7,Hugo Robert,PME
+ORD-00460,2026-08-10,Enceinte portable,Audio,Toulon,Provence-Alpes-Côte d'Azur,96.90,3,Lucas Petit,Indépendant
+ORD-00461,2026-08-04,Imprimante multifonction,Impression,Nice,Provence-Alpes-Côte d'Azur,252.40,3,Camille Martin,Administration
+ORD-00462,2026-05-17,Chaise ergonomique,Mobilier,Boulogne-Billancourt,Île-de-France,431.04,11,Léa Dubois,PME
+ORD-00463,2025-11-10,Webcam HD,Visioconférence,Le Mans,Pays de la Loire,92.60,6,Camille Martin,Indépendant
+ORD-00464,2026-06-15,Casque Bluetooth,Audio,Le Havre,Normandie,181.70,5,Lucas Petit,Administration
+ORD-00465,2026-07-02,Enceinte portable,Audio,Brest,Bretagne,101.90,3,Nathan Leroy,PME
+ORD-00466,2026-07-02,Écran 27 pouces QHD,Informatique,Limoges,Nouvelle-Aquitaine,343.10,6,Mathieu Michel,PME
+ORD-00467,2025-10-26,Ordinateur portable Essentiel 15,Informatique,Grenoble,Auvergne-Rhône-Alpes,771.47,1,Inès Moreau,PME
+ORD-00468,2026-01-23,Bureau réglable,Mobilier,Paris,Île-de-France,599.00,1,Manon Durand,Administration
+ORD-00469,2026-08-02,Écran 27 pouces QHD,Informatique,Boulogne-Billancourt,Île-de-France,336.50,1,Sarah Laurent,PME
+ORD-00470,2026-02-11,Ordinateur portable Pro 14,Informatique,Tours,Centre-Val de Loire,1260.03,18,Thomas Bernard,Administration
+ORD-00471,2026-03-27,Clavier mécanique,Accessoires,Toulon,Provence-Alpes-Côte d'Azur,119.90,1,Hugo Robert,Grande entreprise
+ORD-00472,2026-01-15,Casque Bluetooth,Audio,Bourges,Centre-Val de Loire,187.10,8,Chloé Richard,PME
+ORD-00473,2025-11-19,Switch réseau 8 ports,Réseau,Metz,Grand Est,82.30,2,Léa Dubois,Indépendant
+ORD-00474,2026-05-13,Lampe de bureau LED,Mobilier,Grenoble,Auvergne-Rhône-Alpes,69.20,1,Lucas Petit,Administration
+ORD-00475,2026-02-23,Switch réseau 8 ports,Réseau,Lyon,Auvergne-Rhône-Alpes,79.10,1,Thomas Bernard,PME
+ORD-00476,2026-07-15,Clé USB 128 Go,Stockage,Angers,Pays de la Loire,30.50,1,Sarah Laurent,Grande entreprise
+ORD-00477,2026-07-02,Ordinateur portable Essentiel 15,Informatique,Amiens,Hauts-de-France,778.96,1,Sarah Laurent,PME
+ORD-00478,2026-05-16,Routeur Wi-Fi 6,Réseau,Amiens,Hauts-de-France,194.67,2,Sarah Laurent,Indépendant
+ORD-00479,2026-07-07,Ordinateur portable Essentiel 15,Informatique,Montpellier,Occitanie,726.53,1,Camille Martin,Indépendant
+ORD-00480,2026-07-11,Lampe de bureau LED,Mobilier,Orléans,Centre-Val de Loire,67.80,1,Manon Durand,PME
+ORD-00481,2026-08-17,Disque SSD externe 1 To,Stockage,Marseille,Provence-Alpes-Côte d'Azur,124.70,6,Nathan Leroy,PME
+ORD-00482,2025-10-04,Ordinateur portable Essentiel 15,Informatique,Limoges,Nouvelle-Aquitaine,756.49,11,Gabriel Simon,Administration
+ORD-00483,2026-05-15,Switch réseau 8 ports,Réseau,Paris,Île-de-France,80.70,2,Inès Moreau,Association
+ORD-00484,2026-07-05,Bureau réglable,Mobilier,Montpellier,Occitanie,599.00,8,Sarah Laurent,PME
+ORD-00485,2026-02-06,Clavier mécanique,Accessoires,Le Havre,Normandie,116.30,11,Léa Dubois,PME
+ORD-00486,2026-02-03,Microphone USB,Visioconférence,Versailles,Île-de-France,141.78,1,Mathieu Michel,Association
+ORD-00487,2026-05-30,Switch réseau 8 ports,Réseau,Montpellier,Occitanie,83.10,12,Camille Martin,PME
+ORD-00488,2025-09-15,Écran 27 pouces QHD,Informatique,Angers,Pays de la Loire,343.10,3,Léa Dubois,Grande entreprise
+ORD-00489,2026-08-23,Enceinte portable,Audio,Versailles,Île-de-France,101.90,5,Hugo Robert,Indépendant
+ORD-00490,2026-01-01,Bureau réglable,Mobilier,Boulogne-Billancourt,Île-de-France,581.03,11,Sarah Laurent,PME
+ORD-00491,2026-03-23,Switch réseau 8 ports,Réseau,Strasbourg,Grand Est,77.50,6,Inès Moreau,PME
+ORD-00492,2026-02-19,Webcam HD,Visioconférence,Metz,Grand Est,89.90,24,Sarah Laurent,Grande entreprise
+ORD-00493,2026-01-01,Chaise ergonomique,Mobilier,Amiens,Hauts-de-France,444.51,11,Inès Moreau,Grande entreprise
+ORD-00494,2025-11-29,Chaise ergonomique,Mobilier,Brest,Bretagne,449.00,1,Nathan Leroy,Grande entreprise
+ORD-00495,2026-07-31,Webcam HD,Visioconférence,Toulon,Provence-Alpes-Côte d'Azur,89.90,4,Léa Dubois,PME
+ORD-00496,2026-02-27,Écran 27 pouces QHD,Informatique,Nice,Provence-Alpes-Côte d'Azur,329.90,2,Nathan Leroy,Indépendant
+ORD-00497,2026-08-09,Casque Bluetooth,Audio,Angers,Pays de la Loire,179.90,6,Sarah Laurent,Grande entreprise
+ORD-00498,2025-09-05,Enceinte portable,Audio,Angers,Pays de la Loire,99.90,2,Mathieu Michel,Administration
+ORD-00499,2026-06-07,Switch réseau 8 ports,Réseau,Toulouse,Occitanie,77.50,11,Inès Moreau,Administration
+ORD-00500,2026-05-08,Tablette 10 pouces,Mobilité,Caen,Normandie,387.03,9,Mathieu Michel,PME
+ORD-00501,2026-06-13,Chaise ergonomique,Mobilier,Le Mans,Pays de la Loire,466.96,6,Léa Dubois,Indépendant
+ORD-00502,2026-07-29,Station d'accueil USB-C,Accessoires,Paris,Île-de-France,160.59,2,Hugo Robert,Grande entreprise
+ORD-00503,2026-07-23,Microphone USB,Visioconférence,Rouen,Normandie,139.00,4,Nathan Leroy,Association
+ORD-00504,2025-11-06,Clé USB 128 Go,Stockage,Toulon,Provence-Alpes-Côte d'Azur,30.50,9,Lucas Petit,PME
+ORD-00505,2026-05-16,Ordinateur portable Pro 14,Informatique,Limoges,Nouvelle-Aquitaine,1286.01,8,Manon Durand,PME
+ORD-00506,2026-05-10,Tablette 10 pouces,Mobilité,Caen,Normandie,399.00,19,Manon Durand,Grande entreprise
+ORD-00507,2026-01-14,Disque SSD externe 1 To,Stockage,Caen,Normandie,124.70,4,Chloé Richard,PME
+ORD-00508,2026-06-28,Écran 27 pouces QHD,Informatique,Versailles,Île-de-France,320.00,23,Chloé Richard,Grande entreprise
+ORD-00509,2025-11-20,Écran 27 pouces QHD,Informatique,Strasbourg,Grand Est,323.30,2,Mathieu Michel,Indépendant
+ORD-00510,2026-06-05,Écran 27 pouces QHD,Informatique,Montpellier,Occitanie,320.00,4,Lucas Petit,Grande entreprise
+ORD-00511,2025-12-16,Chaise ergonomique,Mobilier,Tours,Centre-Val de Loire,435.53,21,Gabriel Simon,Grande entreprise
+ORD-00512,2026-05-04,Clavier mécanique,Accessoires,Amiens,Hauts-de-France,117.50,24,Thomas Bernard,Grande entreprise
+ORD-00513,2026-03-27,Enceinte portable,Audio,Caen,Normandie,99.90,3,Nathan Leroy,Association
+ORD-00514,2026-04-27,Lampe de bureau LED,Mobilier,Clermont-Ferrand,Auvergne-Rhône-Alpes,67.80,1,Sarah Laurent,PME
+ORD-00515,2026-01-09,Tablette 10 pouces,Mobilité,Amiens,Hauts-de-France,395.01,4,Camille Martin,PME
+ORD-00516,2026-07-16,Souris sans fil,Accessoires,Brest,Bretagne,49.40,1,Sarah Laurent,PME
+ORD-00517,2026-05-15,Webcam HD,Visioconférence,Versailles,Île-de-France,90.80,12,Camille Martin,PME
+ORD-00518,2025-12-13,Ordinateur portable Pro 14,Informatique,Grenoble,Auvergne-Rhône-Alpes,1260.03,1,Inès Moreau,Indépendant
+ORD-00519,2026-01-08,Souris sans fil,Accessoires,Toulouse,Occitanie,49.40,8,Camille Martin,Grande entreprise
+ORD-00520,2026-07-06,Bureau réglable,Mobilier,Strasbourg,Grand Est,604.99,5,Camille Martin,PME
+ORD-00521,2025-12-19,Souris sans fil,Accessoires,Boulogne-Billancourt,Île-de-France,48.40,1,Hugo Robert,PME
+ORD-00522,2026-06-06,Microphone USB,Visioconférence,Nantes,Pays de la Loire,133.44,1,Hugo Robert,Administration
+ORD-00523,2026-04-05,Imprimante multifonction,Impression,Strasbourg,Grand Est,244.90,12,Mathieu Michel,Administration
+ORD-00524,2025-11-26,Chaise ergonomique,Mobilier,Versailles,Île-de-France,457.98,4,Thomas Bernard,PME
+ORD-00525,2025-10-03,Lampe de bureau LED,Mobilier,Quimper,Bretagne,67.10,8,Manon Durand,PME
+ORD-00526,2026-05-18,Webcam HD,Visioconférence,Rennes,Bretagne,89.90,14,Hugo Robert,Administration
+ORD-00527,2026-06-20,Microphone USB,Visioconférence,Le Havre,Normandie,137.61,9,Lucas Petit,Administration
+ORD-00528,2025-11-25,Cartouche d'encre XL,Impression,Rouen,Normandie,56.00,1,Lucas Petit,PME
+ORD-00529,2025-09-07,Cartouche d'encre XL,Impression,Toulon,Provence-Alpes-Côte d'Azur,56.00,1,Thomas Bernard,PME
+ORD-00530,2025-12-28,Souris sans fil,Accessoires,Metz,Grand Est,50.90,7,Lucas Petit,PME
+ORD-00531,2025-10-05,Écran 27 pouces QHD,Informatique,Nîmes,Occitanie,329.90,4,Mathieu Michel,PME
+ORD-00532,2025-09-28,Enceinte portable,Audio,Limoges,Nouvelle-Aquitaine,97.90,10,Gabriel Simon,Grande entreprise
+ORD-00533,2025-09-30,Routeur Wi-Fi 6,Réseau,Versailles,Île-de-France,194.67,19,Camille Martin,Grande entreprise
+ORD-00534,2026-05-09,Bureau réglable,Mobilier,Rennes,Bretagne,610.98,2,Hugo Robert,Administration
+ORD-00535,2026-08-27,Cartouche d'encre XL,Impression,Boulogne-Billancourt,Île-de-France,55.45,6,Thomas Bernard,Indépendant
+ORD-00536,2026-07-22,Bureau réglable,Mobilier,Metz,Grand Est,610.98,2,Inès Moreau,Indépendant
+ORD-00537,2026-07-12,Station d'accueil USB-C,Accessoires,Grenoble,Auvergne-Rhône-Alpes,160.59,2,Lucas Petit,Indépendant
+ORD-00538,2025-09-14,Clavier mécanique,Accessoires,Brest,Bretagne,124.70,1,Léa Dubois,Indépendant
+ORD-00539,2026-04-02,Casque Bluetooth,Audio,Metz,Grand Est,176.30,7,Thomas Bernard,PME
+ORD-00540,2025-11-18,Switch réseau 8 ports,Réseau,Amiens,Hauts-de-France,77.50,8,Inès Moreau,PME
+ORD-00541,2025-09-15,Clavier mécanique,Accessoires,Grenoble,Auvergne-Rhône-Alpes,115.10,19,Inès Moreau,Grande entreprise
+ORD-00542,2025-09-02,Disque SSD externe 1 To,Stockage,Nantes,Pays de la Loire,135.10,5,Manon Durand,Indépendant
+ORD-00543,2026-01-19,Chaise ergonomique,Mobilier,Rouen,Normandie,431.04,2,Hugo Robert,PME
+ORD-00544,2026-06-23,Clavier mécanique,Accessoires,Rennes,Bretagne,122.30,12,Gabriel Simon,PME
+ORD-00545,2026-02-25,Webcam HD,Visioconférence,Amiens,Hauts-de-France,91.70,11,Chloé Richard,Grande entreprise
+ORD-00546,2025-09-08,Webcam HD,Visioconférence,Le Havre,Normandie,86.30,1,Gabriel Simon,PME
+ORD-00547,2026-01-18,Souris sans fil,Accessoires,Strasbourg,Grand Est,49.40,1,Gabriel Simon,Administration
+ORD-00548,2026-04-10,Souris sans fil,Accessoires,Rennes,Bretagne,48.90,5,Inès Moreau,Administration
+ORD-00549,2026-04-25,Switch réseau 8 ports,Réseau,Amiens,Hauts-de-France,77.50,1,Chloé Richard,Indépendant
+ORD-00550,2026-01-28,Lampe de bureau LED,Mobilier,Quimper,Bretagne,68.50,4,Camille Martin,Association
+ORD-00551,2026-01-10,Cartouche d'encre XL,Impression,Orléans,Centre-Val de Loire,53.25,2,Manon Durand,PME
+ORD-00552,2026-08-10,Tablette 10 pouces,Mobilité,Reims,Grand Est,383.04,9,Hugo Robert,PME
+ORD-00553,2026-01-13,Routeur Wi-Fi 6,Réseau,Le Mans,Pays de la Loire,185.22,14,Chloé Richard,Administration
+ORD-00554,2026-07-21,Disque SSD externe 1 To,Stockage,Reims,Grand Est,133.80,1,Gabriel Simon,Indépendant
+ORD-00555,2026-04-03,Ordinateur portable Pro 14,Informatique,Paris,Île-de-France,1324.98,6,Hugo Robert,Association
+ORD-00556,2026-01-13,Clavier mécanique,Accessoires,Le Mans,Pays de la Loire,118.70,1,Lucas Petit,Grande entreprise
+ORD-00557,2026-01-09,Écran 27 pouces QHD,Informatique,Orléans,Centre-Val de Loire,339.80,1,Manon Durand,PME
+ORD-00558,2026-02-10,Microphone USB,Visioconférence,Toulouse,Occitanie,143.17,1,Nathan Leroy,Indépendant
+ORD-00559,2025-12-13,Station d'accueil USB-C,Accessoires,Strasbourg,Grand Est,162.18,8,Lucas Petit,PME
+ORD-00560,2026-05-31,Microphone USB,Visioconférence,Montpellier,Occitanie,137.61,10,Camille Martin,PME
+ORD-00561,2026-07-31,Microphone USB,Visioconférence,Rouen,Normandie,136.22,11,Inès Moreau,PME
+ORD-00562,2026-07-16,Écran 27 pouces QHD,Informatique,Lille,Hauts-de-France,316.70,1,Lucas Petit,Indépendant
+ORD-00563,2026-04-06,Imprimante multifonction,Impression,Toulon,Provence-Alpes-Côte d'Azur,242.40,7,Chloé Richard,PME
+ORD-00564,2026-01-12,Tablette 10 pouces,Mobilité,Strasbourg,Grand Est,410.97,3,Inès Moreau,PME
+ORD-00565,2026-04-30,Imprimante multifonction,Impression,Limoges,Nouvelle-Aquitaine,247.40,1,Nathan Leroy,Indépendant
+ORD-00566,2026-01-14,Switch réseau 8 ports,Réseau,Strasbourg,Grand Est,79.10,18,Chloé Richard,Administration
+ORD-00567,2026-08-08,Webcam HD,Visioconférence,Rouen,Normandie,87.20,1,Hugo Robert,Indépendant
+ORD-00568,2025-12-25,Routeur Wi-Fi 6,Réseau,Nantes,Pays de la Loire,192.78,1,Manon Durand,Indépendant
+ORD-00569,2026-01-19,Ordinateur portable Essentiel 15,Informatique,Grenoble,Auvergne-Rhône-Alpes,763.98,24,Hugo Robert,Grande entreprise
+ORD-00570,2025-09-16,Enceinte portable,Audio,Angers,Pays de la Loire,103.90,3,Sarah Laurent,PME
+ORD-00571,2026-07-30,Ordinateur portable Essentiel 15,Informatique,Amiens,Hauts-de-France,756.49,2,Chloé Richard,Association
+ORD-00572,2026-01-15,Disque SSD externe 1 To,Stockage,La Rochelle,Nouvelle-Aquitaine,131.20,11,Léa Dubois,PME
+ORD-00573,2025-11-10,Microphone USB,Visioconférence,Lille,Hauts-de-France,136.22,12,Inès Moreau,PME
+ORD-00574,2025-10-29,Station d'accueil USB-C,Accessoires,Lille,Hauts-de-France,152.64,4,Léa Dubois,Grande entreprise
+ORD-00575,2025-11-23,Routeur Wi-Fi 6,Réseau,Metz,Grand Est,190.89,2,Manon Durand,Indépendant
+ORD-00576,2025-09-25,Switch réseau 8 ports,Réseau,Toulon,Provence-Alpes-Côte d'Azur,80.70,2,Lucas Petit,PME
+ORD-00577,2026-04-26,Enceinte portable,Audio,Rouen,Normandie,95.90,2,Lucas Petit,PME
+ORD-00578,2026-03-24,Ordinateur portable Pro 14,Informatique,Le Havre,Normandie,1299.00,12,Léa Dubois,PME
+ORD-00579,2025-12-09,Clavier mécanique,Accessoires,Roubaix,Hauts-de-France,119.90,3,Nathan Leroy,PME
+ORD-00580,2026-06-13,Webcam HD,Visioconférence,Lyon,Auvergne-Rhône-Alpes,90.80,2,Inès Moreau,PME
+ORD-00581,2026-04-07,Switch réseau 8 ports,Réseau,Strasbourg,Grand Est,79.10,7,Gabriel Simon,Administration
+ORD-00582,2026-03-13,Écran 27 pouces QHD,Informatique,Strasbourg,Grand Est,336.50,1,Inès Moreau,PME
+ORD-00583,2025-12-02,Imprimante multifonction,Impression,Lyon,Auvergne-Rhône-Alpes,247.40,1,Léa Dubois,Indépendant
+ORD-00584,2026-08-21,Casque Bluetooth,Audio,Bourges,Centre-Val de Loire,181.70,1,Camille Martin,Association
+ORD-00585,2026-05-26,Routeur Wi-Fi 6,Réseau,Paris,Île-de-France,187.11,1,Camille Martin,Indépendant
+ORD-00586,2025-09-04,Microphone USB,Visioconférence,Strasbourg,Grand Est,140.39,2,Hugo Robert,Grande entreprise
+ORD-00587,2025-10-13,Imprimante multifonction,Impression,Nîmes,Occitanie,254.90,4,Thomas Bernard,Administration
+ORD-00588,2026-07-22,Chaise ergonomique,Mobilier,Caen,Normandie,444.51,3,Nathan Leroy,Grande entreprise
+ORD-00589,2025-12-06,Routeur Wi-Fi 6,Réseau,Versailles,Île-de-France,187.11,10,Manon Durand,PME
+ORD-00590,2025-09-19,Switch réseau 8 ports,Réseau,Reims,Grand Est,79.90,1,Gabriel Simon,PME
+ORD-00591,2026-04-17,Écran 27 pouces QHD,Informatique,Toulon,Provence-Alpes-Côte d'Azur,326.60,1,Inès Moreau,Indépendant
+ORD-00592,2026-01-21,Ordinateur portable Essentiel 15,Informatique,Versailles,Île-de-France,719.04,1,Chloé Richard,Association
+ORD-00593,2025-10-31,Switch réseau 8 ports,Réseau,Bordeaux,Nouvelle-Aquitaine,79.10,12,Mathieu Michel,PME
+ORD-00594,2026-06-11,Casque Bluetooth,Audio,Orléans,Centre-Val de Loire,179.90,1,Sarah Laurent,Indépendant
+ORD-00595,2025-12-20,Ordinateur portable Pro 14,Informatique,Caen,Normandie,1260.03,5,Lucas Petit,Association
+ORD-00596,2026-05-27,Routeur Wi-Fi 6,Réseau,Bordeaux,Nouvelle-Aquitaine,196.56,1,Nathan Leroy,Indépendant
+ORD-00597,2026-07-01,Cartouche d'encre XL,Impression,Marseille,Provence-Alpes-Côte d'Azur,54.90,1,Manon Durand,Administration
+ORD-00598,2025-12-29,Disque SSD externe 1 To,Stockage,Tours,Centre-Val de Loire,133.80,2,Chloé Richard,PME
+ORD-00599,2025-10-20,Écran 27 pouces QHD,Informatique,Marseille,Provence-Alpes-Côte d'Azur,323.30,1,Camille Martin,Indépendant
+ORD-00600,2026-02-05,Ordinateur portable Pro 14,Informatique,Le Mans,Pays de la Loire,1337.97,6,Thomas Bernard,PME
+ORD-00601,2025-11-06,Switch réseau 8 ports,Réseau,Lyon,Auvergne-Rhône-Alpes,79.90,1,Gabriel Simon,Indépendant
+ORD-00602,2026-03-08,Routeur Wi-Fi 6,Réseau,Nantes,Pays de la Loire,185.22,5,Thomas Bernard,PME
+ORD-00603,2025-11-17,Webcam HD,Visioconférence,Clermont-Ferrand,Auvergne-Rhône-Alpes,87.20,12,Hugo Robert,PME
+ORD-00604,2026-03-07,Routeur Wi-Fi 6,Réseau,Orléans,Centre-Val de Loire,181.44,7,Manon Durand,Grande entreprise
+ORD-00605,2026-03-13,Ordinateur portable Pro 14,Informatique,Rouen,Normandie,1337.97,1,Sarah Laurent,Association
+ORD-00606,2025-11-18,Souris sans fil,Accessoires,Rouen,Normandie,50.90,3,Hugo Robert,Association
+ORD-00607,2026-05-30,Clé USB 128 Go,Stockage,Rouen,Normandie,29.30,1,Léa Dubois,PME
+ORD-00608,2026-07-19,Tablette 10 pouces,Mobilité,Versailles,Île-de-France,402.99,1,Thomas Bernard,Association
+ORD-00609,2026-05-17,Tablette 10 pouces,Mobilité,Strasbourg,Grand Est,406.98,4,Manon Durand,Indépendant
+ORD-00610,2026-04-26,Routeur Wi-Fi 6,Réseau,La Rochelle,Nouvelle-Aquitaine,190.89,3,Lucas Petit,Indépendant
+ORD-00611,2025-10-10,Microphone USB,Visioconférence,Paris,Île-de-France,137.61,1,Manon Durand,Indépendant
+ORD-00612,2026-03-09,Tablette 10 pouces,Mobilité,Toulon,Provence-Alpes-Côte d'Azur,410.97,5,Nathan Leroy,Indépendant
+ORD-00613,2025-12-30,Écran 27 pouces QHD,Informatique,Rennes,Bretagne,323.30,1,Lucas Petit,PME
+ORD-00614,2025-10-19,Ordinateur portable Pro 14,Informatique,Boulogne-Billancourt,Île-de-France,1286.01,2,Inès Moreau,Grande entreprise
+ORD-00615,2026-07-09,Microphone USB,Visioconférence,Nice,Provence-Alpes-Côte d'Azur,133.44,10,Sarah Laurent,PME
+ORD-00616,2026-05-23,Bureau réglable,Mobilier,Bordeaux,Nouvelle-Aquitaine,587.02,10,Camille Martin,Administration
+ORD-00617,2025-10-25,Ordinateur portable Pro 14,Informatique,Rouen,Normandie,1273.02,7,Inès Moreau,PME
+ORD-00618,2026-08-14,Clé USB 128 Go,Stockage,Marseille,Provence-Alpes-Côte d'Azur,29.90,4,Nathan Leroy,Indépendant
+ORD-00619,2026-07-03,Clavier mécanique,Accessoires,Quimper,Bretagne,118.70,4,Mathieu Michel,Indépendant
+ORD-00620,2026-05-17,Enceinte portable,Audio,Reims,Grand Est,100.90,15,Gabriel Simon,Administration
+ORD-00621,2026-07-22,Microphone USB,Visioconférence,Brest,Bretagne,144.56,11,Nathan Leroy,PME
+ORD-00622,2026-01-24,Ordinateur portable Pro 14,Informatique,Toulon,Provence-Alpes-Côte d'Azur,1273.02,7,Camille Martin,PME
+ORD-00623,2026-07-30,Disque SSD externe 1 To,Stockage,Caen,Normandie,124.70,6,Sarah Laurent,Indépendant
+ORD-00624,2025-11-05,Lampe de bureau LED,Mobilier,Nantes,Pays de la Loire,72.00,12,Mathieu Michel,PME
+ORD-00625,2025-09-08,Switch réseau 8 ports,Réseau,Quimper,Bretagne,77.50,17,Mathieu Michel,Administration
+ORD-00626,2025-11-05,Routeur Wi-Fi 6,Réseau,Versailles,Île-de-France,183.33,6,Mathieu Michel,Indépendant
+ORD-00627,2026-07-01,Disque SSD externe 1 To,Stockage,Quimper,Bretagne,126.00,5,Inès Moreau,Association
+ORD-00628,2026-06-04,Bureau réglable,Mobilier,Nice,Provence-Alpes-Côte d'Azur,575.04,1,Léa Dubois,PME
+ORD-00629,2026-01-02,Switch réseau 8 ports,Réseau,Reims,Grand Est,78.30,1,Thomas Bernard,PME
+ORD-00630,2026-05-04,Ordinateur portable Essentiel 15,Informatique,Nantes,Pays de la Loire,763.98,6,Thomas Bernard,Indépendant
+ORD-00631,2025-12-28,Microphone USB,Visioconférence,Clermont-Ferrand,Auvergne-Rhône-Alpes,141.78,3,Mathieu Michel,PME
+ORD-00632,2025-12-31,Ordinateur portable Essentiel 15,Informatique,Bordeaux,Nouvelle-Aquitaine,734.02,8,Chloé Richard,Grande entreprise
+ORD-00633,2026-01-12,Clavier mécanique,Accessoires,Versailles,Île-de-France,118.70,2,Gabriel Simon,PME
+ORD-00634,2026-06-16,Webcam HD,Visioconférence,Bordeaux,Nouvelle-Aquitaine,89.90,14,Gabriel Simon,Administration
+ORD-00635,2026-02-08,Chaise ergonomique,Mobilier,Toulouse,Occitanie,449.00,18,Chloé Richard,Grande entreprise
+ORD-00636,2026-05-29,Ordinateur portable Pro 14,Informatique,Montpellier,Occitanie,1350.96,4,Camille Martin,Indépendant
+ORD-00637,2026-07-11,Webcam HD,Visioconférence,Le Mans,Pays de la Loire,89.90,3,Mathieu Michel,Grande entreprise
+ORD-00638,2026-02-02,Écran 27 pouces QHD,Informatique,La Rochelle,Nouvelle-Aquitaine,323.30,4,Gabriel Simon,PME
+ORD-00639,2026-05-08,Clavier mécanique,Accessoires,Caen,Normandie,121.10,1,Thomas Bernard,Indépendant
+ORD-00640,2025-12-31,Enceinte portable,Audio,Bordeaux,Nouvelle-Aquitaine,98.90,6,Camille Martin,PME
+ORD-00641,2025-09-02,Bureau réglable,Mobilier,Caen,Normandie,599.00,3,Inès Moreau,Association
+ORD-00642,2026-05-09,Ordinateur portable Essentiel 15,Informatique,Brest,Bretagne,778.96,1,Chloé Richard,Administration
+ORD-00643,2026-03-15,Casque Bluetooth,Audio,Toulouse,Occitanie,172.70,6,Inès Moreau,PME
+ORD-00644,2026-01-04,Tablette 10 pouces,Mobilité,Angers,Pays de la Loire,399.00,1,Mathieu Michel,Indépendant
+ORD-00645,2025-09-27,Station d'accueil USB-C,Accessoires,Le Havre,Normandie,152.64,3,Hugo Robert,Indépendant
+ORD-00646,2026-02-21,Enceinte portable,Audio,Orléans,Centre-Val de Loire,102.90,1,Inès Moreau,Administration
+ORD-00647,2025-12-20,Microphone USB,Visioconférence,Nantes,Pays de la Loire,141.78,2,Thomas Bernard,Indépendant
+ORD-00648,2025-10-15,Microphone USB,Visioconférence,Roubaix,Hauts-de-France,141.78,9,Gabriel Simon,PME
+ORD-00649,2026-03-31,Routeur Wi-Fi 6,Réseau,Versailles,Île-de-France,189.00,4,Chloé Richard,Indépendant
+ORD-00650,2025-09-18,Casque Bluetooth,Audio,Toulouse,Occitanie,174.50,5,Gabriel Simon,PME
+ORD-00651,2026-02-23,Routeur Wi-Fi 6,Réseau,Clermont-Ferrand,Auvergne-Rhône-Alpes,194.67,18,Nathan Leroy,Grande entreprise
+ORD-00652,2026-04-18,Ordinateur portable Essentiel 15,Informatique,Nice,Provence-Alpes-Côte d'Azur,726.53,3,Gabriel Simon,PME
+ORD-00653,2025-12-07,Souris sans fil,Accessoires,Strasbourg,Grand Est,51.90,11,Camille Martin,PME
+ORD-00654,2026-04-17,Écran 27 pouces QHD,Informatique,Limoges,Nouvelle-Aquitaine,316.70,6,Lucas Petit,PME
+ORD-00655,2025-09-21,Lampe de bureau LED,Mobilier,Clermont-Ferrand,Auvergne-Rhône-Alpes,68.50,2,Chloé Richard,Indépendant
+ORD-00656,2026-06-03,Bureau réglable,Mobilier,Tours,Centre-Val de Loire,616.97,1,Lucas Petit,PME
+ORD-00657,2026-02-03,Disque SSD externe 1 To,Stockage,Rouen,Normandie,126.00,23,Inès Moreau,Grande entreprise
+ORD-00658,2025-11-25,Chaise ergonomique,Mobilier,Toulon,Provence-Alpes-Côte d'Azur,440.02,4,Inès Moreau,Association
+ORD-00659,2026-01-15,Tablette 10 pouces,Mobilité,Caen,Normandie,387.03,8,Camille Martin,PME
+ORD-00660,2026-01-21,Chaise ergonomique,Mobilier,Reims,Grand Est,444.51,1,Lucas Petit,PME
+ORD-00661,2026-01-24,Webcam HD,Visioconférence,Brest,Bretagne,88.10,6,Léa Dubois,Indépendant
+ORD-00662,2025-12-19,Station d'accueil USB-C,Accessoires,Versailles,Île-de-France,154.23,2,Hugo Robert,Administration
+ORD-00663,2026-03-24,Souris sans fil,Accessoires,Metz,Grand Est,48.40,2,Sarah Laurent,Indépendant
+ORD-00664,2025-12-10,Écran 27 pouces QHD,Informatique,Rennes,Bretagne,320.00,8,Camille Martin,Administration
+ORD-00665,2025-11-28,Clavier mécanique,Accessoires,Montpellier,Occitanie,121.10,7,Gabriel Simon,Administration
+ORD-00666,2026-05-17,Routeur Wi-Fi 6,Réseau,Clermont-Ferrand,Auvergne-Rhône-Alpes,181.44,21,Manon Durand,Grande entreprise
+ORD-00667,2026-04-13,Chaise ergonomique,Mobilier,Toulon,Provence-Alpes-Côte d'Azur,457.98,6,Hugo Robert,Indépendant
+ORD-00668,2025-09-22,Clé USB 128 Go,Stockage,Amiens,Hauts-de-France,30.80,4,Lucas Petit,PME
+ORD-00669,2026-08-09,Écran 27 pouces QHD,Informatique,Angers,Pays de la Loire,316.70,1,Sarah Laurent,PME
+ORD-00670,2025-12-19,Chaise ergonomique,Mobilier,Angers,Pays de la Loire,466.96,7,Hugo Robert,PME
+ORD-00671,2026-04-18,Webcam HD,Visioconférence,Paris,Île-de-France,90.80,20,Mathieu Michel,Grande entreprise
+ORD-00672,2025-10-22,Lampe de bureau LED,Mobilier,Nîmes,Occitanie,67.80,1,Sarah Laurent,Administration
+ORD-00673,2026-04-04,Tablette 10 pouces,Mobilité,La Rochelle,Nouvelle-Aquitaine,383.04,5,Thomas Bernard,Indépendant
+ORD-00674,2025-09-29,Bureau réglable,Mobilier,Boulogne-Billancourt,Île-de-France,587.02,8,Nathan Leroy,PME
+ORD-00675,2026-06-16,Clavier mécanique,Accessoires,Orléans,Centre-Val de Loire,115.10,1,Nathan Leroy,Indépendant
+ORD-00676,2025-10-28,Clé USB 128 Go,Stockage,Grenoble,Auvergne-Rhône-Alpes,29.30,11,Hugo Robert,Administration
+ORD-00677,2026-03-08,Enceinte portable,Audio,Versailles,Île-de-France,99.90,1,Nathan Leroy,Indépendant
+ORD-00678,2026-04-01,Chaise ergonomique,Mobilier,Versailles,Île-de-France,453.49,1,Manon Durand,Association
+ORD-00679,2025-09-29,Casque Bluetooth,Audio,Roubaix,Hauts-de-France,174.50,3,Gabriel Simon,Indépendant
+ORD-00680,2025-11-25,Routeur Wi-Fi 6,Réseau,Orléans,Centre-Val de Loire,194.67,5,Inès Moreau,Indépendant
+ORD-00681,2025-11-09,Ordinateur portable Pro 14,Informatique,Clermont-Ferrand,Auvergne-Rhône-Alpes,1286.01,5,Léa Dubois,Indépendant
+ORD-00682,2025-10-28,Disque SSD externe 1 To,Stockage,Boulogne-Billancourt,Île-de-France,135.10,5,Mathieu Michel,Association
+ORD-00683,2026-07-14,Tablette 10 pouces,Mobilité,Rouen,Normandie,383.04,1,Léa Dubois,PME
+ORD-00684,2026-01-04,Cartouche d'encre XL,Impression,Versailles,Île-de-France,57.10,7,Mathieu Michel,Grande entreprise
+ORD-00685,2026-01-18,Ordinateur portable Essentiel 15,Informatique,Nîmes,Occitanie,726.53,1,Sarah Laurent,Association
+ORD-00686,2025-10-18,Microphone USB,Visioconférence,Limoges,Nouvelle-Aquitaine,140.39,1,Sarah Laurent,Association
+ORD-00687,2026-06-23,Cartouche d'encre XL,Impression,Roubaix,Hauts-de-France,53.80,4,Nathan Leroy,Indépendant
+ORD-00688,2026-01-29,Clé USB 128 Go,Stockage,Roubaix,Hauts-de-France,30.20,11,Gabriel Simon,Grande entreprise
+ORD-00689,2025-09-14,Clavier mécanique,Accessoires,Clermont-Ferrand,Auvergne-Rhône-Alpes,123.50,7,Mathieu Michel,Administration
+ORD-00690,2025-10-08,Clé USB 128 Go,Stockage,Rouen,Normandie,29.90,1,Gabriel Simon,Indépendant
+ORD-00691,2026-05-13,Tablette 10 pouces,Mobilité,Boulogne-Billancourt,Île-de-France,410.97,5,Léa Dubois,PME
+ORD-00692,2026-08-28,Webcam HD,Visioconférence,Paris,Île-de-France,88.10,4,Camille Martin,Association
+ORD-00693,2026-05-02,Chaise ergonomique,Mobilier,Tours,Centre-Val de Loire,440.02,11,Thomas Bernard,PME
+ORD-00694,2026-07-13,Microphone USB,Visioconférence,Caen,Normandie,143.17,3,Nathan Leroy,Indépendant
+ORD-00695,2025-11-24,Clavier mécanique,Accessoires,Le Havre,Normandie,124.70,1,Hugo Robert,Indépendant
+ORD-00696,2026-04-22,Tablette 10 pouces,Mobilité,Amiens,Hauts-de-France,391.02,2,Manon Durand,PME
+ORD-00697,2025-12-30,Clavier mécanique,Accessoires,Nice,Provence-Alpes-Côte d'Azur,123.50,4,Chloé Richard,Administration
+ORD-00698,2026-04-18,Webcam HD,Visioconférence,Toulouse,Occitanie,92.60,15,Nathan Leroy,Administration
+ORD-00699,2026-07-04,Clavier mécanique,Accessoires,Lille,Hauts-de-France,121.10,5,Mathieu Michel,PME
+ORD-00700,2026-01-06,Station d'accueil USB-C,Accessoires,Quimper,Bretagne,154.23,1,Camille Martin,PME
+ORD-00701,2026-02-23,Souris sans fil,Accessoires,Le Havre,Normandie,51.40,3,Nathan Leroy,Indépendant
+ORD-00702,2026-04-19,Tablette 10 pouces,Mobilité,Bourges,Centre-Val de Loire,387.03,10,Manon Durand,Administration
+ORD-00703,2026-08-27,Bureau réglable,Mobilier,Bourges,Centre-Val de Loire,581.03,2,Lucas Petit,Indépendant
+ORD-00704,2026-04-30,Webcam HD,Visioconférence,Le Havre,Normandie,89.00,17,Chloé Richard,Grande entreprise
+ORD-00705,2025-11-20,Enceinte portable,Audio,Nice,Provence-Alpes-Côte d'Azur,97.90,1,Inès Moreau,Association
+ORD-00706,2025-12-03,Ordinateur portable Pro 14,Informatique,Limoges,Nouvelle-Aquitaine,1260.03,11,Lucas Petit,PME
+ORD-00707,2026-05-06,Imprimante multifonction,Impression,Reims,Grand Est,249.90,5,Nathan Leroy,PME
+ORD-00708,2025-12-05,Switch réseau 8 ports,Réseau,Orléans,Centre-Val de Loire,81.50,2,Hugo Robert,Administration
+ORD-00709,2026-06-18,Bureau réglable,Mobilier,Caen,Normandie,604.99,6,Hugo Robert,PME
+ORD-00710,2025-11-27,Lampe de bureau LED,Mobilier,Orléans,Centre-Val de Loire,68.50,24,Lucas Petit,Grande entreprise
+ORD-00711,2026-08-25,Chaise ergonomique,Mobilier,Orléans,Centre-Val de Loire,444.51,20,Léa Dubois,Grande entreprise
+ORD-00712,2025-12-06,Souris sans fil,Accessoires,Metz,Grand Est,47.90,12,Sarah Laurent,PME
+ORD-00713,2026-01-03,Switch réseau 8 ports,Réseau,Caen,Normandie,80.70,2,Mathieu Michel,PME
+ORD-00714,2026-04-23,Station d'accueil USB-C,Accessoires,Paris,Île-de-France,152.64,1,Nathan Leroy,PME
+ORD-00715,2026-07-19,Chaise ergonomique,Mobilier,Le Mans,Pays de la Loire,440.02,3,Gabriel Simon,Indépendant
+ORD-00716,2026-02-07,Ordinateur portable Pro 14,Informatique,Boulogne-Billancourt,Île-de-France,1273.02,8,Camille Martin,Grande entreprise
+ORD-00717,2025-11-03,Cartouche d'encre XL,Impression,Bordeaux,Nouvelle-Aquitaine,52.70,1,Manon Durand,Association
+ORD-00718,2026-03-31,Microphone USB,Visioconférence,Quimper,Bretagne,141.78,3,Thomas Bernard,Administration
+ORD-00719,2026-05-29,Microphone USB,Visioconférence,Marseille,Provence-Alpes-Côte d'Azur,133.44,6,Thomas Bernard,Indépendant
+ORD-00720,2025-09-29,Bureau réglable,Mobilier,Bourges,Centre-Val de Loire,581.03,1,Hugo Robert,PME
+ORD-00721,2025-11-14,Enceinte portable,Audio,Limoges,Nouvelle-Aquitaine,102.90,12,Hugo Robert,PME
+ORD-00722,2026-08-23,Ordinateur portable Essentiel 15,Informatique,Clermont-Ferrand,Auvergne-Rhône-Alpes,741.51,1,Nathan Leroy,PME
+ORD-00723,2025-10-26,Microphone USB,Visioconférence,Le Mans,Pays de la Loire,133.44,1,Inès Moreau,Grande entreprise
+ORD-00724,2025-12-20,Tablette 10 pouces,Mobilité,Amiens,Hauts-de-France,395.01,1,Camille Martin,Grande entreprise
+ORD-00725,2025-12-05,Clé USB 128 Go,Stockage,La Rochelle,Nouvelle-Aquitaine,30.50,12,Mathieu Michel,PME
+ORD-00726,2026-06-14,Ordinateur portable Essentiel 15,Informatique,Orléans,Centre-Val de Loire,749.00,1,Chloé Richard,Indépendant
+ORD-00727,2025-09-22,Souris sans fil,Accessoires,Metz,Grand Est,48.40,12,Sarah Laurent,PME
+ORD-00728,2026-08-14,Chaise ergonomique,Mobilier,Toulon,Provence-Alpes-Côte d'Azur,440.02,5,Camille Martin,Association
+ORD-00729,2026-01-05,Chaise ergonomique,Mobilier,Toulouse,Occitanie,453.49,4,Manon Durand,PME
+ORD-00730,2026-02-05,Microphone USB,Visioconférence,Bordeaux,Nouvelle-Aquitaine,140.39,13,Mathieu Michel,Grande entreprise
+ORD-00731,2025-12-16,Souris sans fil,Accessoires,Versailles,Île-de-France,47.90,8,Léa Dubois,Grande entreprise
+ORD-00732,2026-01-24,Souris sans fil,Accessoires,Metz,Grand Est,51.90,2,Inès Moreau,Indépendant
+ORD-00733,2025-10-25,Webcam HD,Visioconférence,Quimper,Bretagne,90.80,6,Hugo Robert,PME
+ORD-00734,2026-02-17,Écran 27 pouces QHD,Informatique,Montpellier,Occitanie,343.10,5,Camille Martin,PME
+ORD-00735,2026-08-31,Souris sans fil,Accessoires,Boulogne-Billancourt,Île-de-France,51.40,1,Léa Dubois,PME
+ORD-00736,2026-07-24,Ordinateur portable Essentiel 15,Informatique,Bourges,Centre-Val de Loire,771.47,14,Inès Moreau,Administration
+ORD-00737,2026-01-05,Microphone USB,Visioconférence,Boulogne-Billancourt,Île-de-France,133.44,1,Hugo Robert,Grande entreprise
+ORD-00738,2026-04-29,Switch réseau 8 ports,Réseau,Tours,Centre-Val de Loire,83.10,20,Inès Moreau,Grande entreprise
+ORD-00739,2026-04-03,Tablette 10 pouces,Mobilité,La Rochelle,Nouvelle-Aquitaine,414.96,1,Gabriel Simon,PME
+ORD-00740,2026-01-05,Tablette 10 pouces,Mobilité,Reims,Grand Est,406.98,11,Lucas Petit,PME
+ORD-00741,2026-03-04,Casque Bluetooth,Audio,Montpellier,Occitanie,174.50,1,Camille Martin,Indépendant
+ORD-00742,2025-09-01,Ordinateur portable Essentiel 15,Informatique,Nîmes,Occitanie,741.51,16,Thomas Bernard,Administration
+ORD-00743,2025-10-25,Disque SSD externe 1 To,Stockage,Nantes,Pays de la Loire,131.20,4,Hugo Robert,PME
+ORD-00744,2026-03-24,Écran 27 pouces QHD,Informatique,Caen,Normandie,336.50,15,Camille Martin,Grande entreprise
+ORD-00745,2026-04-11,Ordinateur portable Essentiel 15,Informatique,Roubaix,Hauts-de-France,771.47,9,Hugo Robert,PME
+ORD-00746,2026-01-20,Ordinateur portable Essentiel 15,Informatique,Le Havre,Normandie,726.53,1,Camille Martin,Association
+ORD-00747,2026-03-01,Casque Bluetooth,Audio,Toulon,Provence-Alpes-Côte d'Azur,183.50,1,Gabriel Simon,PME
+ORD-00748,2026-01-20,Souris sans fil,Accessoires,Amiens,Hauts-de-France,48.90,1,Hugo Robert,PME
+ORD-00749,2026-03-14,Chaise ergonomique,Mobilier,Nice,Provence-Alpes-Côte d'Azur,431.04,11,Léa Dubois,Administration
+ORD-00750,2026-07-29,Enceinte portable,Audio,Bordeaux,Nouvelle-Aquitaine,103.90,3,Mathieu Michel,Indépendant
+ORD-00751,2025-12-01,Clavier mécanique,Accessoires,Orléans,Centre-Val de Loire,117.50,1,Léa Dubois,Indépendant
+ORD-00752,2025-12-27,Chaise ergonomique,Mobilier,Lyon,Auvergne-Rhône-Alpes,453.49,6,Chloé Richard,Indépendant
+ORD-00753,2026-08-27,Ordinateur portable Pro 14,Informatique,Bourges,Centre-Val de Loire,1350.96,14,Thomas Bernard,Administration
+ORD-00754,2025-09-21,Enceinte portable,Audio,Angers,Pays de la Loire,103.90,14,Mathieu Michel,Grande entreprise
+ORD-00755,2026-05-01,Enceinte portable,Audio,Lyon,Auvergne-Rhône-Alpes,99.90,18,Inès Moreau,Administration
+ORD-00756,2026-02-16,Clavier mécanique,Accessoires,Le Mans,Pays de la Loire,116.30,8,Thomas Bernard,PME
+ORD-00757,2026-06-01,Ordinateur portable Essentiel 15,Informatique,Bourges,Centre-Val de Loire,734.02,1,Léa Dubois,Indépendant
+ORD-00758,2025-12-01,Souris sans fil,Accessoires,Bourges,Centre-Val de Loire,47.90,24,Thomas Bernard,Grande entreprise
+ORD-00759,2025-10-02,Station d'accueil USB-C,Accessoires,Lille,Hauts-de-France,163.77,1,Camille Martin,Grande entreprise
+ORD-00760,2026-07-21,Enceinte portable,Audio,Toulon,Provence-Alpes-Côte d'Azur,101.90,10,Nathan Leroy,PME
+ORD-00761,2025-11-17,Casque Bluetooth,Audio,Rouen,Normandie,183.50,12,Nathan Leroy,Administration
+ORD-00762,2026-03-03,Cartouche d'encre XL,Impression,Roubaix,Hauts-de-France,56.00,3,Mathieu Michel,Association
+ORD-00763,2025-11-25,Clavier mécanique,Accessoires,Le Havre,Normandie,115.10,9,Manon Durand,PME
+ORD-00764,2026-07-15,Ordinateur portable Essentiel 15,Informatique,Grenoble,Auvergne-Rhône-Alpes,756.49,2,Nathan Leroy,Association
+ORD-00765,2026-03-26,Station d'accueil USB-C,Accessoires,Reims,Grand Est,159.00,5,Thomas Bernard,PME
+ORD-00766,2025-10-14,Microphone USB,Visioconférence,Toulon,Provence-Alpes-Côte d'Azur,141.78,8,Léa Dubois,PME
+ORD-00767,2026-05-22,Chaise ergonomique,Mobilier,Le Havre,Normandie,435.53,8,Inès Moreau,Grande entreprise
+ORD-00768,2026-02-24,Clavier mécanique,Accessoires,Roubaix,Hauts-de-France,122.30,4,Hugo Robert,Indépendant
+ORD-00769,2025-10-19,Station d'accueil USB-C,Accessoires,Montpellier,Occitanie,160.59,23,Hugo Robert,Grande entreprise
+ORD-00770,2026-05-30,Webcam HD,Visioconférence,Metz,Grand Est,91.70,1,Mathieu Michel,PME
+ORD-00771,2026-02-24,Chaise ergonomique,Mobilier,Grenoble,Auvergne-Rhône-Alpes,453.49,3,Sarah Laurent,Indépendant
+ORD-00772,2026-02-26,Lampe de bureau LED,Mobilier,Versailles,Île-de-France,67.10,8,Manon Durand,PME
+ORD-00773,2026-05-08,Clavier mécanique,Accessoires,Caen,Normandie,122.30,1,Sarah Laurent,Association
+ORD-00774,2025-11-08,Ordinateur portable Pro 14,Informatique,Quimper,Bretagne,1286.01,1,Gabriel Simon,PME
+ORD-00775,2025-09-14,Clé USB 128 Go,Stockage,Angers,Pays de la Loire,29.60,1,Thomas Bernard,Association
+ORD-00776,2026-04-12,Routeur Wi-Fi 6,Réseau,Marseille,Provence-Alpes-Côte d'Azur,196.56,3,Camille Martin,Indépendant
+ORD-00777,2026-06-06,Tablette 10 pouces,Mobilité,Clermont-Ferrand,Auvergne-Rhône-Alpes,414.96,9,Inès Moreau,PME
+ORD-00778,2026-06-17,Clé USB 128 Go,Stockage,Le Mans,Pays de la Loire,31.10,7,Mathieu Michel,Grande entreprise
+ORD-00779,2026-06-04,Écran 27 pouces QHD,Informatique,Grenoble,Auvergne-Rhône-Alpes,329.90,2,Sarah Laurent,Indépendant
+ORD-00780,2026-03-21,Webcam HD,Visioconférence,Limoges,Nouvelle-Aquitaine,88.10,7,Nathan Leroy,PME
+ORD-00781,2025-12-21,Lampe de bureau LED,Mobilier,Amiens,Hauts-de-France,69.20,5,Manon Durand,PME
+ORD-00782,2025-12-24,Lampe de bureau LED,Mobilier,Boulogne-Billancourt,Île-de-France,67.10,9,Mathieu Michel,Grande entreprise
+ORD-00783,2026-03-27,Webcam HD,Visioconférence,Toulon,Provence-Alpes-Côte d'Azur,91.70,8,Camille Martin,PME
+ORD-00784,2026-01-08,Cartouche d'encre XL,Impression,Paris,Île-de-France,54.90,1,Gabriel Simon,Indépendant
+ORD-00785,2025-10-25,Écran 27 pouces QHD,Informatique,Nice,Provence-Alpes-Côte d'Azur,320.00,2,Inès Moreau,Indépendant
+ORD-00786,2026-03-20,Bureau réglable,Mobilier,Roubaix,Hauts-de-France,587.02,1,Manon Durand,PME
+ORD-00787,2026-05-28,Ordinateur portable Essentiel 15,Informatique,Amiens,Hauts-de-France,741.51,10,Sarah Laurent,PME
+ORD-00788,2026-08-27,Ordinateur portable Essentiel 15,Informatique,Le Mans,Pays de la Loire,734.02,3,Chloé Richard,Indépendant
+ORD-00789,2025-10-26,Souris sans fil,Accessoires,Versailles,Île-de-France,47.90,5,Thomas Bernard,Association
+ORD-00790,2025-11-16,Enceinte portable,Audio,Montpellier,Occitanie,95.90,13,Mathieu Michel,Grande entreprise
+ORD-00791,2026-05-09,Webcam HD,Visioconférence,Le Mans,Pays de la Loire,89.00,2,Chloé Richard,Grande entreprise
+ORD-00792,2025-11-29,Clavier mécanique,Accessoires,Le Mans,Pays de la Loire,124.70,12,Camille Martin,PME
+ORD-00793,2025-09-20,Cartouche d'encre XL,Impression,Bordeaux,Nouvelle-Aquitaine,52.70,5,Hugo Robert,Indépendant
+ORD-00794,2026-06-02,Souris sans fil,Accessoires,Roubaix,Hauts-de-France,48.90,12,Mathieu Michel,Grande entreprise
+ORD-00795,2025-09-01,Casque Bluetooth,Audio,Caen,Normandie,178.10,1,Hugo Robert,Administration
+ORD-00796,2025-12-29,Clé USB 128 Go,Stockage,Montpellier,Occitanie,29.30,17,Inès Moreau,Administration
+ORD-00797,2025-12-20,Tablette 10 pouces,Mobilité,Lyon,Auvergne-Rhône-Alpes,414.96,1,Léa Dubois,Grande entreprise
+ORD-00798,2025-11-03,Cartouche d'encre XL,Impression,Montpellier,Occitanie,53.80,16,Hugo Robert,Administration
+ORD-00799,2025-09-21,Clavier mécanique,Accessoires,Rouen,Normandie,117.50,1,Inès Moreau,PME
+ORD-00800,2026-05-16,Lampe de bureau LED,Mobilier,Le Mans,Pays de la Loire,70.60,1,Nathan Leroy,PME
+ORD-00801,2026-02-08,Chaise ergonomique,Mobilier,Clermont-Ferrand,Auvergne-Rhône-Alpes,435.53,11,Chloé Richard,PME
+ORD-00802,2026-08-27,Microphone USB,Visioconférence,Metz,Grand Est,133.44,1,Léa Dubois,Administration
+ORD-00803,2026-07-29,Tablette 10 pouces,Mobilité,Tours,Centre-Val de Loire,414.96,20,Hugo Robert,Grande entreprise
+ORD-00804,2025-10-30,Routeur Wi-Fi 6,Réseau,Montpellier,Occitanie,192.78,8,Thomas Bernard,PME
+ORD-00805,2026-07-02,Tablette 10 pouces,Mobilité,Toulouse,Occitanie,410.97,3,Lucas Petit,Indépendant
+ORD-00806,2026-07-20,Switch réseau 8 ports,Réseau,Toulon,Provence-Alpes-Côte d'Azur,81.50,2,Inès Moreau,Indépendant
+ORD-00807,2026-02-05,Microphone USB,Visioconférence,Amiens,Hauts-de-France,139.00,17,Lucas Petit,Administration
+ORD-00808,2025-09-18,Clé USB 128 Go,Stockage,Bourges,Centre-Val de Loire,30.50,7,Camille Martin,PME
+ORD-00809,2026-06-11,Routeur Wi-Fi 6,Réseau,Lille,Hauts-de-France,192.78,8,Manon Durand,PME
+ORD-00810,2026-06-10,Enceinte portable,Audio,Le Mans,Pays de la Loire,98.90,7,Thomas Bernard,PME
+ORD-00811,2026-06-16,Webcam HD,Visioconférence,La Rochelle,Nouvelle-Aquitaine,92.60,2,Sarah Laurent,Indépendant
+ORD-00812,2025-11-10,Clavier mécanique,Accessoires,Grenoble,Auvergne-Rhône-Alpes,122.30,3,Chloé Richard,Indépendant
+ORD-00813,2025-12-16,Disque SSD externe 1 To,Stockage,Paris,Île-de-France,129.90,1,Mathieu Michel,PME
+ORD-00814,2025-12-05,Chaise ergonomique,Mobilier,Orléans,Centre-Val de Loire,453.49,11,Inès Moreau,Grande entreprise
+ORD-00815,2026-06-02,Chaise ergonomique,Mobilier,Nîmes,Occitanie,449.00,1,Camille Martin,PME
+ORD-00816,2025-09-12,Bureau réglable,Mobilier,Marseille,Provence-Alpes-Côte d'Azur,610.98,5,Manon Durand,PME
+ORD-00817,2025-10-25,Casque Bluetooth,Audio,La Rochelle,Nouvelle-Aquitaine,183.50,2,Thomas Bernard,PME
+ORD-00818,2026-05-13,Souris sans fil,Accessoires,Metz,Grand Est,50.40,10,Lucas Petit,PME
+ORD-00819,2026-02-13,Souris sans fil,Accessoires,Bordeaux,Nouvelle-Aquitaine,48.90,1,Mathieu Michel,PME
+ORD-00820,2026-06-21,Switch réseau 8 ports,Réseau,Tours,Centre-Val de Loire,79.10,1,Manon Durand,Indépendant
+ORD-00821,2026-08-11,Enceinte portable,Audio,Rennes,Bretagne,98.90,4,Chloé Richard,Indépendant
+ORD-00822,2026-01-19,Lampe de bureau LED,Mobilier,Angers,Pays de la Loire,68.50,17,Léa Dubois,Administration
+ORD-00823,2026-03-24,Disque SSD externe 1 To,Stockage,Caen,Normandie,131.20,17,Léa Dubois,Administration
+ORD-00824,2026-08-25,Casque Bluetooth,Audio,Toulon,Provence-Alpes-Côte d'Azur,187.10,3,Gabriel Simon,PME
+ORD-00825,2025-11-11,Routeur Wi-Fi 6,Réseau,Toulouse,Occitanie,194.67,3,Lucas Petit,Indépendant
+ORD-00826,2026-04-09,Écran 27 pouces QHD,Informatique,Rennes,Bretagne,316.70,2,Nathan Leroy,PME
+ORD-00827,2025-09-03,Tablette 10 pouces,Mobilité,Quimper,Bretagne,391.02,2,Thomas Bernard,Grande entreprise
+ORD-00828,2025-11-20,Clavier mécanique,Accessoires,Nantes,Pays de la Loire,122.30,1,Hugo Robert,Indépendant
+ORD-00829,2026-07-19,Enceinte portable,Audio,Rennes,Bretagne,103.90,1,Mathieu Michel,Association
+ORD-00830,2026-02-20,Webcam HD,Visioconférence,Quimper,Bretagne,93.50,1,Manon Durand,Indépendant
+ORD-00831,2026-05-21,Bureau réglable,Mobilier,Strasbourg,Grand Est,575.04,1,Lucas Petit,Administration
+ORD-00832,2026-02-26,Routeur Wi-Fi 6,Réseau,Toulouse,Occitanie,181.44,15,Inès Moreau,Grande entreprise
+ORD-00833,2026-07-03,Ordinateur portable Essentiel 15,Informatique,La Rochelle,Nouvelle-Aquitaine,726.53,5,Manon Durand,Indépendant
+ORD-00834,2026-07-18,Routeur Wi-Fi 6,Réseau,Rouen,Normandie,189.00,6,Hugo Robert,PME
+ORD-00835,2026-08-27,Microphone USB,Visioconférence,Roubaix,Hauts-de-France,134.83,3,Léa Dubois,Administration
+ORD-00836,2025-11-23,Imprimante multifonction,Impression,Toulon,Provence-Alpes-Côte d'Azur,254.90,11,Sarah Laurent,Administration
+ORD-00837,2026-07-28,Cartouche d'encre XL,Impression,La Rochelle,Nouvelle-Aquitaine,57.10,1,Camille Martin,Indépendant
+ORD-00838,2026-08-09,Switch réseau 8 ports,Réseau,Lyon,Auvergne-Rhône-Alpes,81.50,3,Gabriel Simon,Association
+ORD-00839,2026-02-11,Imprimante multifonction,Impression,Grenoble,Auvergne-Rhône-Alpes,239.90,1,Manon Durand,Indépendant
+ORD-00840,2026-04-22,Ordinateur portable Essentiel 15,Informatique,Nice,Provence-Alpes-Côte d'Azur,771.47,5,Hugo Robert,Indépendant
+ORD-00841,2026-07-02,Clavier mécanique,Accessoires,Versailles,Île-de-France,122.30,1,Gabriel Simon,Indépendant
+ORD-00842,2026-06-05,Clé USB 128 Go,Stockage,Quimper,Bretagne,30.20,11,Hugo Robert,PME
+ORD-00843,2026-06-19,Chaise ergonomique,Mobilier,Grenoble,Auvergne-Rhône-Alpes,466.96,2,Inès Moreau,Association
+ORD-00844,2026-02-14,Disque SSD externe 1 To,Stockage,Reims,Grand Est,124.70,1,Hugo Robert,Indépendant
+ORD-00845,2025-11-27,Microphone USB,Visioconférence,Quimper,Bretagne,133.44,8,Camille Martin,PME
+ORD-00846,2026-02-21,Chaise ergonomique,Mobilier,La Rochelle,Nouvelle-Aquitaine,435.53,9,Lucas Petit,PME
+ORD-00847,2026-05-09,Casque Bluetooth,Audio,Montpellier,Occitanie,183.50,1,Chloé Richard,Association
+ORD-00848,2026-07-04,Switch réseau 8 ports,Réseau,Lyon,Auvergne-Rhône-Alpes,80.70,5,Mathieu Michel,Grande entreprise
+ORD-00849,2025-10-29,Bureau réglable,Mobilier,Reims,Grand Est,610.98,19,Hugo Robert,Grande entreprise
+ORD-00850,2026-05-28,Disque SSD externe 1 To,Stockage,Brest,Bretagne,131.20,1,Nathan Leroy,Administration
+ORD-00851,2026-02-20,Clé USB 128 Go,Stockage,Nantes,Pays de la Loire,29.60,3,Thomas Bernard,PME
+ORD-00852,2025-11-17,Ordinateur portable Pro 14,Informatique,Boulogne-Billancourt,Île-de-France,1286.01,3,Nathan Leroy,PME
+ORD-00853,2025-09-18,Switch réseau 8 ports,Réseau,Brest,Bretagne,78.30,11,Hugo Robert,Grande entreprise
+ORD-00854,2025-12-02,Bureau réglable,Mobilier,Lyon,Auvergne-Rhône-Alpes,575.04,4,Gabriel Simon,Grande entreprise
+ORD-00855,2026-05-28,Microphone USB,Visioconférence,Lyon,Auvergne-Rhône-Alpes,136.22,2,Thomas Bernard,PME
+ORD-00856,2025-11-07,Souris sans fil,Accessoires,Angers,Pays de la Loire,51.40,1,Thomas Bernard,Grande entreprise
+ORD-00857,2025-11-01,Clé USB 128 Go,Stockage,Le Havre,Normandie,28.70,3,Manon Durand,Association
+ORD-00858,2026-08-29,Tablette 10 pouces,Mobilité,Limoges,Nouvelle-Aquitaine,406.98,6,Nathan Leroy,PME
+ORD-00859,2026-05-30,Tablette 10 pouces,Mobilité,Toulon,Provence-Alpes-Côte d'Azur,395.01,1,Sarah Laurent,Association
+ORD-00860,2026-07-23,Microphone USB,Visioconférence,Bordeaux,Nouvelle-Aquitaine,133.44,1,Hugo Robert,Indépendant
+ORD-00861,2026-06-12,Ordinateur portable Essentiel 15,Informatique,Limoges,Nouvelle-Aquitaine,749.00,14,Inès Moreau,Grande entreprise
+ORD-00862,2025-10-19,Station d'accueil USB-C,Accessoires,Quimper,Bretagne,160.59,5,Mathieu Michel,PME
+ORD-00863,2025-12-04,Bureau réglable,Mobilier,Le Mans,Pays de la Loire,581.03,6,Manon Durand,Indépendant
+ORD-00864,2026-01-20,Lampe de bureau LED,Mobilier,Rennes,Bretagne,68.50,4,Nathan Leroy,Association
+ORD-00865,2026-04-03,Bureau réglable,Mobilier,Metz,Grand Est,581.03,11,Mathieu Michel,PME
+ORD-00866,2026-08-02,Écran 27 pouces QHD,Informatique,Boulogne-Billancourt,Île-de-France,316.70,1,Inès Moreau,Indépendant
+ORD-00867,2026-01-30,Casque Bluetooth,Audio,Boulogne-Billancourt,Île-de-France,187.10,1,Lucas Petit,Grande entreprise
+ORD-00868,2026-08-08,Station d'accueil USB-C,Accessoires,Limoges,Nouvelle-Aquitaine,152.64,3,Nathan Leroy,Indépendant
+ORD-00869,2025-12-18,Lampe de bureau LED,Mobilier,Le Mans,Pays de la Loire,68.50,2,Nathan Leroy,Association
+ORD-00870,2026-08-19,Lampe de bureau LED,Mobilier,Amiens,Hauts-de-France,71.30,3,Chloé Richard,Indépendant
+ORD-00871,2026-03-14,Webcam HD,Visioconférence,Roubaix,Hauts-de-France,88.10,7,Mathieu Michel,PME
+ORD-00872,2025-12-16,Imprimante multifonction,Impression,Roubaix,Hauts-de-France,239.90,3,Gabriel Simon,Indépendant
+ORD-00873,2025-12-25,Écran 27 pouces QHD,Informatique,Nice,Provence-Alpes-Côte d'Azur,339.80,3,Nathan Leroy,Indépendant
+ORD-00874,2026-05-14,Chaise ergonomique,Mobilier,La Rochelle,Nouvelle-Aquitaine,431.04,12,Nathan Leroy,Administration
+ORD-00875,2025-09-23,Lampe de bureau LED,Mobilier,Bourges,Centre-Val de Loire,72.70,1,Nathan Leroy,Grande entreprise
+ORD-00876,2026-01-16,Ordinateur portable Essentiel 15,Informatique,Nîmes,Occitanie,763.98,13,Mathieu Michel,Grande entreprise
+ORD-00877,2026-07-09,Switch réseau 8 ports,Réseau,Bordeaux,Nouvelle-Aquitaine,79.90,4,Lucas Petit,PME
+ORD-00878,2026-08-15,Tablette 10 pouces,Mobilité,Versailles,Île-de-France,383.04,4,Nathan Leroy,Administration
+ORD-00879,2025-10-01,Casque Bluetooth,Audio,Toulouse,Occitanie,176.30,2,Léa Dubois,PME
+ORD-00880,2026-07-31,Tablette 10 pouces,Mobilité,Roubaix,Hauts-de-France,402.99,1,Manon Durand,Indépendant
+ORD-00881,2025-09-19,Enceinte portable,Audio,Paris,Île-de-France,99.90,6,Sarah Laurent,PME
+ORD-00882,2026-08-10,Enceinte portable,Audio,Metz,Grand Est,103.90,11,Nathan Leroy,Grande entreprise
+ORD-00883,2025-09-14,Écran 27 pouces QHD,Informatique,Nîmes,Occitanie,323.30,3,Chloé Richard,Association
+ORD-00884,2026-07-30,Switch réseau 8 ports,Réseau,Grenoble,Auvergne-Rhône-Alpes,76.70,6,Nathan Leroy,PME
+ORD-00885,2026-07-08,Webcam HD,Visioconférence,Montpellier,Occitanie,93.50,4,Inès Moreau,Indépendant
+ORD-00886,2025-09-26,Station d'accueil USB-C,Accessoires,Nantes,Pays de la Loire,154.23,12,Gabriel Simon,PME
+ORD-00887,2026-03-31,Routeur Wi-Fi 6,Réseau,La Rochelle,Nouvelle-Aquitaine,194.67,1,Thomas Bernard,Indépendant
+ORD-00888,2025-09-30,Ordinateur portable Essentiel 15,Informatique,Reims,Grand Est,734.02,5,Thomas Bernard,PME
+ORD-00889,2026-05-18,Chaise ergonomique,Mobilier,Caen,Normandie,440.02,6,Camille Martin,Indépendant
+ORD-00890,2026-01-16,Chaise ergonomique,Mobilier,Strasbourg,Grand Est,440.02,2,Sarah Laurent,Indépendant
+ORD-00891,2026-06-13,Station d'accueil USB-C,Accessoires,Le Mans,Pays de la Loire,165.36,1,Gabriel Simon,PME
+ORD-00892,2026-03-28,Imprimante multifonction,Impression,Roubaix,Hauts-de-France,242.40,5,Camille Martin,PME
+ORD-00893,2026-02-05,Enceinte portable,Audio,Lyon,Auvergne-Rhône-Alpes,100.90,3,Mathieu Michel,Grande entreprise
+ORD-00894,2026-03-13,Tablette 10 pouces,Mobilité,Limoges,Nouvelle-Aquitaine,395.01,1,Nathan Leroy,Indépendant
+ORD-00895,2025-09-21,Cartouche d'encre XL,Impression,Angers,Pays de la Loire,53.80,1,Hugo Robert,PME
+ORD-00896,2026-04-12,Écran 27 pouces QHD,Informatique,Lille,Hauts-de-France,339.80,2,Sarah Laurent,PME
+ORD-00897,2026-05-01,Clé USB 128 Go,Stockage,Grenoble,Auvergne-Rhône-Alpes,31.10,20,Nathan Leroy,Grande entreprise
+ORD-00898,2026-04-20,Chaise ergonomique,Mobilier,Grenoble,Auvergne-Rhône-Alpes,462.47,3,Lucas Petit,Indépendant
+ORD-00899,2026-02-20,Enceinte portable,Audio,Paris,Île-de-France,99.90,6,Inès Moreau,Indépendant
+ORD-00900,2026-08-06,Switch réseau 8 ports,Réseau,Le Havre,Normandie,83.10,1,Sarah Laurent,Grande entreprise
+ORD-00901,2026-07-16,Écran 27 pouces QHD,Informatique,La Rochelle,Nouvelle-Aquitaine,320.00,7,Lucas Petit,PME
+ORD-00902,2026-01-07,Ordinateur portable Essentiel 15,Informatique,Montpellier,Occitanie,778.96,3,Mathieu Michel,PME
+ORD-00903,2026-02-14,Cartouche d'encre XL,Impression,Limoges,Nouvelle-Aquitaine,57.10,5,Inès Moreau,Administration
+ORD-00904,2025-09-22,Lampe de bureau LED,Mobilier,La Rochelle,Nouvelle-Aquitaine,71.30,1,Camille Martin,Administration
+ORD-00905,2026-06-21,Ordinateur portable Pro 14,Informatique,Le Havre,Normandie,1337.97,4,Nathan Leroy,Association
+ORD-00906,2025-09-19,Souris sans fil,Accessoires,Roubaix,Hauts-de-France,48.40,6,Léa Dubois,Grande entreprise
+ORD-00907,2026-08-11,Imprimante multifonction,Impression,La Rochelle,Nouvelle-Aquitaine,242.40,4,Thomas Bernard,Indépendant
+ORD-00908,2026-07-19,Lampe de bureau LED,Mobilier,Montpellier,Occitanie,69.90,2,Thomas Bernard,PME
+ORD-00909,2026-06-17,Ordinateur portable Pro 14,Informatique,Montpellier,Occitanie,1260.03,1,Camille Martin,Indépendant
+ORD-00910,2026-08-17,Station d'accueil USB-C,Accessoires,Le Mans,Pays de la Loire,165.36,23,Hugo Robert,Grande entreprise
+ORD-00911,2026-02-25,Chaise ergonomique,Mobilier,Toulon,Provence-Alpes-Côte d'Azur,457.98,7,Nathan Leroy,PME
+ORD-00912,2025-09-11,Casque Bluetooth,Audio,Nantes,Pays de la Loire,179.90,1,Léa Dubois,Grande entreprise
+ORD-00913,2026-01-22,Lampe de bureau LED,Mobilier,Roubaix,Hauts-de-France,70.60,1,Manon Durand,Indépendant
+ORD-00914,2026-03-31,Clé USB 128 Go,Stockage,Angers,Pays de la Loire,29.90,7,Chloé Richard,Administration
+ORD-00915,2026-08-16,Disque SSD externe 1 To,Stockage,Lyon,Auvergne-Rhône-Alpes,124.70,1,Hugo Robert,PME
+ORD-00916,2026-08-27,Souris sans fil,Accessoires,Bordeaux,Nouvelle-Aquitaine,49.90,3,Chloé Richard,PME
+ORD-00917,2025-11-06,Imprimante multifonction,Impression,Tours,Centre-Val de Loire,239.90,6,Thomas Bernard,Grande entreprise
+ORD-00918,2026-07-06,Enceinte portable,Audio,Nice,Provence-Alpes-Côte d'Azur,95.90,1,Gabriel Simon,Indépendant
+ORD-00919,2026-06-08,Station d'accueil USB-C,Accessoires,Versailles,Île-de-France,160.59,6,Mathieu Michel,PME
+ORD-00920,2025-09-17,Ordinateur portable Essentiel 15,Informatique,Grenoble,Auvergne-Rhône-Alpes,726.53,2,Nathan Leroy,PME
+ORD-00921,2026-06-02,Ordinateur portable Pro 14,Informatique,Le Havre,Normandie,1324.98,1,Mathieu Michel,PME
+ORD-00922,2026-05-22,Clé USB 128 Go,Stockage,Marseille,Provence-Alpes-Côte d'Azur,30.80,18,Léa Dubois,Grande entreprise
+ORD-00923,2026-06-10,Microphone USB,Visioconférence,Paris,Île-de-France,141.78,21,Mathieu Michel,Grande entreprise
+ORD-00924,2026-01-19,Enceinte portable,Audio,Nice,Provence-Alpes-Côte d'Azur,99.90,4,Lucas Petit,PME
+ORD-00925,2025-11-20,Casque Bluetooth,Audio,Le Havre,Normandie,172.70,8,Hugo Robert,Administration
+ORD-00926,2025-12-21,Ordinateur portable Essentiel 15,Informatique,Brest,Bretagne,778.96,2,Chloé Richard,Association
+ORD-00927,2025-12-24,Ordinateur portable Pro 14,Informatique,Rouen,Normandie,1286.01,13,Camille Martin,Grande entreprise
+ORD-00928,2025-09-01,Clé USB 128 Go,Stockage,Boulogne-Billancourt,Île-de-France,29.60,10,Léa Dubois,PME
+ORD-00929,2026-05-31,Casque Bluetooth,Audio,Rouen,Normandie,176.30,23,Thomas Bernard,Grande entreprise
+ORD-00930,2026-03-22,Ordinateur portable Pro 14,Informatique,Bourges,Centre-Val de Loire,1350.96,17,Hugo Robert,Grande entreprise
+ORD-00931,2025-09-06,Bureau réglable,Mobilier,Montpellier,Occitanie,599.00,5,Thomas Bernard,Indépendant
+ORD-00932,2025-11-27,Ordinateur portable Essentiel 15,Informatique,Montpellier,Occitanie,763.98,1,Chloé Richard,Grande entreprise
+ORD-00933,2026-08-09,Disque SSD externe 1 To,Stockage,Tours,Centre-Val de Loire,131.20,1,Nathan Leroy,PME
+ORD-00934,2025-11-28,Routeur Wi-Fi 6,Réseau,Boulogne-Billancourt,Île-de-France,192.78,6,Inès Moreau,PME
+ORD-00935,2025-12-26,Cartouche d'encre XL,Impression,Strasbourg,Grand Est,56.00,5,Chloé Richard,PME
+ORD-00936,2025-10-18,Cartouche d'encre XL,Impression,Marseille,Provence-Alpes-Côte d'Azur,53.25,3,Inès Moreau,PME
+ORD-00937,2025-10-04,Ordinateur portable Pro 14,Informatique,Angers,Pays de la Loire,1350.96,6,Inès Moreau,Association
+ORD-00938,2026-06-18,Cartouche d'encre XL,Impression,Rennes,Bretagne,57.10,8,Chloé Richard,PME
+ORD-00939,2026-07-19,Chaise ergonomique,Mobilier,Rennes,Bretagne,466.96,4,Inès Moreau,Indépendant
+ORD-00940,2026-06-15,Lampe de bureau LED,Mobilier,Metz,Grand Est,72.70,3,Thomas Bernard,PME
+ORD-00941,2026-05-03,Enceinte portable,Audio,Versailles,Île-de-France,97.90,1,Nathan Leroy,Association
+ORD-00942,2025-09-06,Tablette 10 pouces,Mobilité,Boulogne-Billancourt,Île-de-France,383.04,2,Manon Durand,Indépendant
+ORD-00943,2025-12-06,Microphone USB,Visioconférence,Nice,Provence-Alpes-Côte d'Azur,137.61,1,Gabriel Simon,PME
+ORD-00944,2026-04-05,Switch réseau 8 ports,Réseau,Montpellier,Occitanie,80.70,3,Mathieu Michel,Grande entreprise
+ORD-00945,2026-02-18,Imprimante multifonction,Impression,Toulouse,Occitanie,257.40,4,Inès Moreau,Association
+ORD-00946,2026-08-14,Routeur Wi-Fi 6,Réseau,Toulouse,Occitanie,189.00,1,Sarah Laurent,Indépendant
+ORD-00947,2026-04-20,Clé USB 128 Go,Stockage,La Rochelle,Nouvelle-Aquitaine,30.50,12,Hugo Robert,PME
+ORD-00948,2026-08-03,Cartouche d'encre XL,Impression,Le Mans,Pays de la Loire,54.90,1,Sarah Laurent,PME
+ORD-00949,2025-12-29,Bureau réglable,Mobilier,Rennes,Bretagne,604.99,2,Nathan Leroy,Indépendant
+ORD-00950,2026-01-10,Tablette 10 pouces,Mobilité,Boulogne-Billancourt,Île-de-France,387.03,5,Sarah Laurent,PME
+ORD-00951,2025-12-25,Écran 27 pouces QHD,Informatique,Versailles,Île-de-France,323.30,6,Chloé Richard,Association
+ORD-00952,2026-04-04,Souris sans fil,Accessoires,Grenoble,Auvergne-Rhône-Alpes,50.90,1,Léa Dubois,Indépendant
+ORD-00953,2026-02-08,Clavier mécanique,Accessoires,Paris,Île-de-France,118.70,5,Manon Durand,Grande entreprise
+ORD-00954,2026-03-08,Écran 27 pouces QHD,Informatique,Toulon,Provence-Alpes-Côte d'Azur,339.80,8,Gabriel Simon,PME
+ORD-00955,2026-02-08,Ordinateur portable Essentiel 15,Informatique,Amiens,Hauts-de-France,778.96,10,Sarah Laurent,PME
+ORD-00956,2026-01-05,Routeur Wi-Fi 6,Réseau,Versailles,Île-de-France,196.56,5,Mathieu Michel,Indépendant
+ORD-00957,2026-02-23,Lampe de bureau LED,Mobilier,Boulogne-Billancourt,Île-de-France,69.90,2,Léa Dubois,Association
+ORD-00958,2026-01-14,Webcam HD,Visioconférence,Marseille,Provence-Alpes-Côte d'Azur,89.00,3,Sarah Laurent,PME
+ORD-00959,2025-09-24,Écran 27 pouces QHD,Informatique,Toulon,Provence-Alpes-Côte d'Azur,336.50,1,Léa Dubois,Indépendant
+ORD-00960,2025-09-15,Disque SSD externe 1 To,Stockage,Paris,Île-de-France,124.70,1,Lucas Petit,Indépendant
+ORD-00961,2025-11-17,Clé USB 128 Go,Stockage,Rouen,Normandie,28.70,11,Thomas Bernard,PME
+ORD-00962,2025-11-25,Microphone USB,Visioconférence,Lille,Hauts-de-France,144.56,11,Nathan Leroy,Grande entreprise
+ORD-00963,2026-02-21,Enceinte portable,Audio,Boulogne-Billancourt,Île-de-France,95.90,3,Nathan Leroy,Indépendant
+ORD-00964,2025-12-17,Webcam HD,Visioconférence,Rennes,Bretagne,90.80,1,Mathieu Michel,Indépendant
+ORD-00965,2025-12-03,Webcam HD,Visioconférence,Le Havre,Normandie,90.80,1,Gabriel Simon,PME
+ORD-00966,2026-03-21,Souris sans fil,Accessoires,Tours,Centre-Val de Loire,48.90,2,Mathieu Michel,PME
+ORD-00967,2026-03-20,Cartouche d'encre XL,Impression,Montpellier,Occitanie,57.10,8,Mathieu Michel,Grande entreprise
+ORD-00968,2026-07-04,Imprimante multifonction,Impression,Quimper,Bretagne,252.40,1,Sarah Laurent,Indépendant
+ORD-00969,2025-11-01,Souris sans fil,Accessoires,Toulon,Provence-Alpes-Côte d'Azur,47.90,12,Mathieu Michel,PME
+ORD-00970,2026-02-02,Casque Bluetooth,Audio,Amiens,Hauts-de-France,187.10,1,Manon Durand,Administration
+ORD-00971,2026-01-19,Clé USB 128 Go,Stockage,Bourges,Centre-Val de Loire,29.60,23,Hugo Robert,Grande entreprise
+ORD-00972,2026-06-23,Clé USB 128 Go,Stockage,Reims,Grand Est,28.70,22,Thomas Bernard,Grande entreprise
+ORD-00973,2025-09-17,Casque Bluetooth,Audio,Clermont-Ferrand,Auvergne-Rhône-Alpes,176.30,22,Thomas Bernard,Grande entreprise
+ORD-00974,2026-08-01,Enceinte portable,Audio,Toulouse,Occitanie,103.90,12,Chloé Richard,PME
+ORD-00975,2026-04-12,Enceinte portable,Audio,Marseille,Provence-Alpes-Côte d'Azur,98.90,1,Nathan Leroy,Indépendant
+ORD-00976,2026-05-03,Station d'accueil USB-C,Accessoires,Bourges,Centre-Val de Loire,159.00,3,Thomas Bernard,Indépendant
+ORD-00977,2025-11-30,Enceinte portable,Audio,Lyon,Auvergne-Rhône-Alpes,102.90,1,Lucas Petit,PME
+ORD-00978,2026-01-11,Switch réseau 8 ports,Réseau,Lille,Hauts-de-France,77.50,1,Lucas Petit,Indépendant
+ORD-00979,2025-09-15,Microphone USB,Visioconférence,Orléans,Centre-Val de Loire,134.83,1,Chloé Richard,PME
+ORD-00980,2026-04-01,Casque Bluetooth,Audio,Le Mans,Pays de la Loire,178.10,3,Léa Dubois,Indépendant
+ORD-00981,2025-09-11,Enceinte portable,Audio,Marseille,Provence-Alpes-Côte d'Azur,95.90,7,Gabriel Simon,PME
+ORD-00982,2025-10-29,Cartouche d'encre XL,Impression,Reims,Grand Est,57.10,2,Hugo Robert,Administration
+ORD-00983,2026-03-28,Tablette 10 pouces,Mobilité,Strasbourg,Grand Est,383.04,4,Camille Martin,Indépendant
+ORD-00984,2026-01-11,Webcam HD,Visioconférence,Toulouse,Occitanie,88.10,1,Léa Dubois,PME
+ORD-00985,2025-10-11,Switch réseau 8 ports,Réseau,Nîmes,Occitanie,82.30,1,Manon Durand,PME
+ORD-00986,2026-06-05,Ordinateur portable Essentiel 15,Informatique,Nîmes,Occitanie,763.98,3,Camille Martin,Indépendant
+ORD-00987,2026-04-04,Enceinte portable,Audio,Clermont-Ferrand,Auvergne-Rhône-Alpes,99.90,25,Hugo Robert,Grande entreprise
+ORD-00988,2026-01-09,Ordinateur portable Pro 14,Informatique,Lille,Hauts-de-France,1260.03,1,Lucas Petit,Indépendant
+ORD-00989,2026-03-04,Lampe de bureau LED,Mobilier,Tours,Centre-Val de Loire,70.60,3,Manon Durand,Grande entreprise
+ORD-00990,2026-07-26,Bureau réglable,Mobilier,Clermont-Ferrand,Auvergne-Rhône-Alpes,593.01,1,Sarah Laurent,Association
+ORD-00991,2025-11-03,Souris sans fil,Accessoires,Marseille,Provence-Alpes-Côte d'Azur,51.40,3,Sarah Laurent,Indépendant
+ORD-00992,2026-07-09,Clavier mécanique,Accessoires,Roubaix,Hauts-de-France,118.70,5,Mathieu Michel,Indépendant
+ORD-00993,2025-10-21,Lampe de bureau LED,Mobilier,Paris,Île-de-France,69.90,1,Sarah Laurent,Indépendant
+ORD-00994,2025-11-28,Microphone USB,Visioconférence,Brest,Bretagne,140.39,1,Hugo Robert,PME
+ORD-00995,2026-07-14,Microphone USB,Visioconférence,La Rochelle,Nouvelle-Aquitaine,144.56,16,Mathieu Michel,Grande entreprise
+ORD-00996,2026-07-28,Lampe de bureau LED,Mobilier,Versailles,Île-de-France,72.70,3,Chloé Richard,PME
+ORD-00997,2025-09-17,Ordinateur portable Essentiel 15,Informatique,Le Mans,Pays de la Loire,719.04,23,Mathieu Michel,Grande entreprise
+ORD-00998,2026-08-15,Cartouche d'encre XL,Impression,Paris,Île-de-France,54.90,1,Lucas Petit,PME
+ORD-00999,2026-07-26,Switch réseau 8 ports,Réseau,Limoges,Nouvelle-Aquitaine,82.30,6,Gabriel Simon,PME
+ORD-01000,2026-04-29,Écran 27 pouces QHD,Informatique,Versailles,Île-de-France,339.80,2,Manon Durand,Association
