@@ -1,0 +1,140 @@
+table sales
+	lineageTag: ebaf7940-4eab-411b-b715-7059ba38ceff
+
+	measure 'Total Revenue' = SUM(Sales[Revenue])
+		formatString: #,0.00 "€"
+		lineageTag: 25f20299-83a6-43b5-a9dd-7bf81903ebaf
+
+	measure 'Total Orders' = DISTINCTCOUNT(Sales[OrderID])
+		formatString: 0
+		lineageTag: 92bc65c0-45f1-4ace-b72b-b6f197a9ea26
+
+	measure 'Units Sold' = SUM(Sales[Quantity])
+		formatString: 0
+		lineageTag: 61079b02-b373-44c1-a467-882cbd0a4d59
+
+	measure 'Average Order Value' =
+			
+			DIVIDE(
+			    [Total Revenue],
+			    [Total Orders]
+			)
+		formatString: #,0.00 "€"
+		lineageTag: fc41c86a-fe79-4a39-a98f-6d098918bf45
+
+	column OrderID
+		dataType: string
+		lineageTag: 8bc3f380-be5b-45c7-8f17-2530c933ddf4
+		summarizeBy: none
+		sourceColumn: OrderID
+
+		annotation SummarizationSetBy = Automatic
+
+	column Date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: ed87778b-515e-4987-b2c5-71e4a5c296d6
+		summarizeBy: none
+		sourceColumn: Date
+
+		variation Variation
+			isDefault
+			relationship: c207e21f-b2a2-416c-abaf-118605be7d0d
+			defaultHierarchy: LocalDateTable_a03e216d-b78d-443b-9d29-8017d3807d36.'Hiérarchie de dates'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Product
+		dataType: string
+		lineageTag: 9875c48e-23f3-4d9f-a868-23886d974fc6
+		summarizeBy: none
+		sourceColumn: Product
+
+		annotation SummarizationSetBy = Automatic
+
+	column Category
+		dataType: string
+		lineageTag: 0f9050f2-b89d-4ee5-a72d-2c3779e80978
+		summarizeBy: none
+		sourceColumn: Category
+
+		annotation SummarizationSetBy = Automatic
+
+	column City
+		dataType: string
+		lineageTag: 8b02f979-a700-4dfc-9d1c-0a92446ede6f
+		summarizeBy: none
+		sourceColumn: City
+
+		annotation SummarizationSetBy = Automatic
+
+	column Region
+		dataType: string
+		lineageTag: 42bb6157-c4ba-4578-9d9b-392d8cb64fcf
+		summarizeBy: none
+		sourceColumn: Region
+
+		annotation SummarizationSetBy = Automatic
+
+	column UnitPrice
+		dataType: double
+		lineageTag: 81835705-bf3e-4bdd-b64b-116695aa2df2
+		summarizeBy: sum
+		sourceColumn: UnitPrice
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Quantity
+		dataType: int64
+		formatString: 0
+		lineageTag: cf59d4b1-c720-41cd-8d67-73508c62336f
+		summarizeBy: sum
+		sourceColumn: Quantity
+
+		annotation SummarizationSetBy = Automatic
+
+	column Salesperson
+		dataType: string
+		lineageTag: 08f9ba15-1c82-4a92-85c9-b137083d439f
+		summarizeBy: none
+		sourceColumn: Salesperson
+
+		annotation SummarizationSetBy = Automatic
+
+	column CustomerType
+		dataType: string
+		lineageTag: 8f76ee87-5760-45ba-9a60-aa5d8fe4b980
+		summarizeBy: none
+		sourceColumn: CustomerType
+
+		annotation SummarizationSetBy = Automatic
+
+	column Revenue = Sales[UnitPrice] * Sales[Quantity]
+		lineageTag: 313d2b8f-57e5-4aff-8d33-3ea439c9b7c7
+		summarizeBy: sum
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	partition sales = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("\\wsl.localhost\Ubuntu\home\yassine\projects\powerbi-sales-dashboard\data\sales.csv"),[Delimiter=",", Columns=10, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"En-têtes promus" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Type modifié" = Table.TransformColumnTypes(#"En-têtes promus",{{"OrderID", type text}, {"Date", type date}, {"Product", type text}, {"Category", type text}, {"City", type text}, {"Region", type text}, {"UnitPrice", type text}, {"Quantity", Int64.Type}, {"Salesperson", type text}, {"CustomerType", type text}}),
+				    #"Type modifié avec paramètres régionaux" = Table.TransformColumnTypes(#"Type modifié", {{"UnitPrice", type number}}, "en-US")
+				in
+				    #"Type modifié avec paramètres régionaux"
+
+	changedProperty = Name
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
