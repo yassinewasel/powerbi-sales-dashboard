@@ -1,27 +1,20 @@
-# Sales Performance Dashboard
+# Tableau de bord des ventes
 
-A compact Power BI portfolio project for exploring sales performance across products, categories, regions, and salespeople in France.
+Projet de portfolio réalisé avec Power BI pour explorer les ventes par produit, catégorie, région et commercial en France.
 
-![Sales Performance Dashboard](screenshots/dashboard.png)
+![Tableau de bord des ventes](screenshots/dashboard.png)
 
-## Project overview
+## Présentation
 
-The report uses a synthetic CSV dataset containing 1,000 orders over approximately 12 months. It covers 20 products, 9 categories, 33 French cities, 11 regions, 12 salespeople, and 5 customer types. Prices and quantities are generated for demonstration purposes and do not represent real transactions.
+Le rapport utilise un fichier CSV synthétique de 1 000 commandes réparties sur environ douze mois. Il contient des produits, catégories, villes et régions françaises, commerciaux et types de clients. Les prix et quantités sont générés pour la démonstration et ne représentent pas des transactions réelles.
 
-Power Query imports the UTF-8 CSV, promotes the header row, assigns appropriate data types, and parses unit prices using an English (United States) locale. A calculated `Revenue` column multiplies unit price by quantity.
+Power Query importe le CSV UTF-8, transforme la première ligne en en-têtes et applique les types adaptés. Une colonne calculée `Revenue` multiplie le prix unitaire par la quantité.
 
-## Dashboard features
+## Contenu du tableau de bord
 
-The dashboard includes four headline KPIs:
+Quatre indicateurs principaux présentent le chiffre d'affaires, le nombre de commandes, les unités vendues et le panier moyen. Des graphiques détaillent l'évolution mensuelle, les catégories, les régions et les produits les plus performants. Des segments filtrent le rapport par date, catégorie, région et commercial.
 
-- Total revenue
-- Total orders
-- Units sold
-- Average order value
-
-Supporting visuals show monthly revenue, revenue by category, revenue by region, and the best-performing products. Slicers allow the report to be filtered by date, category, region, and salesperson.
-
-The core DAX measures are:
+Les mesures DAX utilisées sont :
 
 ```DAX
 Total Revenue = SUM(Sales[Revenue])
@@ -32,24 +25,24 @@ Average Order Value = DIVIDE([Total Revenue], [Total Orders])
 
 ## Technologies
 
-- Power BI Desktop
-- Power Query
-- DAX
-- Data visualization
+- Power BI Desktop ;
+- Power Query ;
+- DAX ;
+- visualisation de données.
 
-## Repository structure
+## Organisation du dépôt
 
 ```text
 powerbi-sales-dashboard/
 ├── data/
-│   ├── sales.csv                     # Synthetic source data
-│   ├── SalesDashboard.pbip           # Power BI project entry point
-│   ├── SalesDashboard.Report/        # Report definition
-│   └── SalesDashboard.SemanticModel/ # Data model and DAX definitions
+│   ├── sales.csv                     # Données sources synthétiques
+│   ├── SalesDashboard.pbip           # Point d'entrée du projet Power BI
+│   ├── SalesDashboard.Report/        # Définition du rapport
+│   └── SalesDashboard.SemanticModel/ # Modèle et mesures DAX
 ├── screenshots/
-│   └── dashboard.png                 # Dashboard preview
+│   └── dashboard.png                 # Aperçu du tableau de bord
 ├── LICENSE
 └── README.md
 ```
 
-Open `data/SalesDashboard.pbip` in Power BI Desktop to review the report. If the source path differs on your machine, update the CSV connection in Power Query.
+Pour ouvrir le rapport, lancer `data/SalesDashboard.pbip` dans Power BI Desktop. Si le fichier CSV a été déplacé, mettre à jour son chemin dans Power Query.
